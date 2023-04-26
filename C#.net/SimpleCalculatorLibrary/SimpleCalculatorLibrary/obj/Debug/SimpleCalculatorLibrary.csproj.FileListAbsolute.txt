@@ -1,0 +1,9 @@
+C:\Users\Adnim\source\repos\SimpleCalculatorLibrary\SimpleCalculatorLibrary\bin\Debug\SimpleCalculatorLibrary.dll
+C:\Users\Adnim\source\repos\SimpleCalculatorLibrary\SimpleCalculatorLibrary\bin\Debug\SimpleCalculatorLibrary.pdb
+C:\Users\Adnim\source\repos\SimpleCalculatorLibrary\SimpleCalculatorLibrary\obj\Debug\SimpleCalculatorLibrary.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\SimpleCalculatorLibrary\SimpleCalculatorLibrary\obj\Debug\SimpleCalculatorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\SimpleCalculatorLibrary\SimpleCalculatorLibrary\obj\Debug\SimpleCalculatorLibrary.dll
+C:\Users\Adnim\source\repos\SimpleCalculatorLibrary\SimpleCalculatorLibrary\obj\Debug\SimpleCalculatorLibrary.pdb
+C:\Users\Adnim\source\repos\SimpleCalculatorLibrary\SimpleCalculatorLibrary\bin\Debug\SimpleCalculator.DataAccess.dll
+C:\Users\Adnim\source\repos\SimpleCalculatorLibrary\SimpleCalculatorLibrary\bin\Debug\SimpleCalculator.DataAccess.pdb
+C:\Users\Adnim\source\repos\SimpleCalculatorLibrary\SimpleCalculatorLibrary\obj\Debug\SimpleCalculatorLibrary.csproj.CopyComplete

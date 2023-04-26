@@ -1,0 +1,8 @@
+C:\Users\Adnim\source\repos\HelloWorldSolution\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Adnim\source\repos\HelloWorldSolution\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Adnim\source\repos\HelloWorldSolution\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Adnim\source\repos\HelloWorldSolution\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\HelloWorldSolution\HelloWorld\obj\Debug\HelloWorld.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adnim\source\repos\HelloWorldSolution\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\HelloWorldSolution\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Adnim\source\repos\HelloWorldSolution\HelloWorld\obj\Debug\HelloWorld.pdb

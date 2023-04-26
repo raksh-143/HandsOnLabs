@@ -1,0 +1,12 @@
+C:\Users\Adnim\source\repos\ExceptionHandlingDemo\ExceptionHandlingDemo\bin\Debug\ExceptionHandlingDemo.exe.config
+C:\Users\Adnim\source\repos\ExceptionHandlingDemo\ExceptionHandlingDemo\bin\Debug\ExceptionHandlingDemo.exe
+C:\Users\Adnim\source\repos\ExceptionHandlingDemo\ExceptionHandlingDemo\bin\Debug\ExceptionHandlingDemo.pdb
+C:\Users\Adnim\source\repos\ExceptionHandlingDemo\ExceptionHandlingDemo\obj\Debug\ExceptionHandlingDemo.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\ExceptionHandlingDemo\ExceptionHandlingDemo\obj\Debug\ExceptionHandlingDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adnim\source\repos\ExceptionHandlingDemo\ExceptionHandlingDemo\obj\Debug\ExceptionHandlingDemo.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\ExceptionHandlingDemo\ExceptionHandlingDemo\obj\Debug\ExceptionHandlingDemo.exe
+C:\Users\Adnim\source\repos\ExceptionHandlingDemo\ExceptionHandlingDemo\obj\Debug\ExceptionHandlingDemo.pdb
+C:\Users\Adnim\source\repos\ExceptionHandlingDemo\ExceptionHandlingDemo\bin\Debug\NLog.dll
+C:\Users\Adnim\source\repos\ExceptionHandlingDemo\ExceptionHandlingDemo\bin\Debug\NLog.xml
+C:\Users\Adnim\source\repos\ExceptionHandlingDemo\ExceptionHandlingDemo\obj\Debug\ExceptionHandlingDemo.csproj.CopyComplete
+C:\Users\Adnim\source\repos\ExceptionHandlingDemo\ExceptionHandlingDemo\bin\Debug\nlog.config

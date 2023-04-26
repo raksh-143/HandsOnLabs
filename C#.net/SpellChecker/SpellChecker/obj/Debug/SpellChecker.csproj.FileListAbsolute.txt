@@ -1,0 +1,8 @@
+C:\Users\Adnim\source\repos\SpellChecker\SpellChecker\bin\Debug\SpellChecker.exe.config
+C:\Users\Adnim\source\repos\SpellChecker\SpellChecker\bin\Debug\SpellChecker.exe
+C:\Users\Adnim\source\repos\SpellChecker\SpellChecker\bin\Debug\SpellChecker.pdb
+C:\Users\Adnim\source\repos\SpellChecker\SpellChecker\obj\Debug\SpellChecker.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\SpellChecker\SpellChecker\obj\Debug\SpellChecker.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adnim\source\repos\SpellChecker\SpellChecker\obj\Debug\SpellChecker.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\SpellChecker\SpellChecker\obj\Debug\SpellChecker.exe
+C:\Users\Adnim\source\repos\SpellChecker\SpellChecker\obj\Debug\SpellChecker.pdb

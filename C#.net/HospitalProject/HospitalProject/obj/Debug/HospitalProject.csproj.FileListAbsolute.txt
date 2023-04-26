@@ -1,0 +1,8 @@
+C:\Users\Adnim\source\repos\HospitalProject\HospitalProject\bin\Debug\HospitalProject.exe.config
+C:\Users\Adnim\source\repos\HospitalProject\HospitalProject\bin\Debug\HospitalProject.exe
+C:\Users\Adnim\source\repos\HospitalProject\HospitalProject\bin\Debug\HospitalProject.pdb
+C:\Users\Adnim\source\repos\HospitalProject\HospitalProject\obj\Debug\HospitalProject.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\HospitalProject\HospitalProject\obj\Debug\HospitalProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adnim\source\repos\HospitalProject\HospitalProject\obj\Debug\HospitalProject.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\HospitalProject\HospitalProject\obj\Debug\HospitalProject.exe
+C:\Users\Adnim\source\repos\HospitalProject\HospitalProject\obj\Debug\HospitalProject.pdb

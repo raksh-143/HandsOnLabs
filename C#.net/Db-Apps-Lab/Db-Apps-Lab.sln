@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF-Mappings", "EF-Mappings\EF-Mappings.csproj", "{ECE33AAF-CE4B-428F-974B-F77FB8E8C7EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF-Mappings-Mountains", "EF-Mappings-Mountains\EF-Mappings-Mountains.csproj", "{C20F006C-E4BD-4618-A97D-1CC89498A624}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECE33AAF-CE4B-428F-974B-F77FB8E8C7EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECE33AAF-CE4B-428F-974B-F77FB8E8C7EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECE33AAF-CE4B-428F-974B-F77FB8E8C7EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECE33AAF-CE4B-428F-974B-F77FB8E8C7EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C20F006C-E4BD-4618-A97D-1CC89498A624}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C20F006C-E4BD-4618-A97D-1CC89498A624}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C20F006C-E4BD-4618-A97D-1CC89498A624}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C20F006C-E4BD-4618-A97D-1CC89498A624}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA24EC21-D7C8-4623-AD6B-7BF113573C47}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendationEngine.TestingModule3\bin\Debug\AIRecommendationEngine.TestingModule3.exe.config
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendationEngine.TestingModule3\bin\Debug\AIRecommendationEngine.TestingModule3.exe
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendationEngine.TestingModule3\bin\Debug\AIRecommendationEngine.TestingModule3.pdb
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendationEngine.TestingModule3\bin\Debug\AIRecommendationEngine.Common.dll
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendationEngine.TestingModule3\bin\Debug\AIRecommendationEngine.DataLoader.dll
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendationEngine.TestingModule3\bin\Debug\AIRecommendationEngine.RatingsAggregator.dll
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendationEngine.TestingModule3\bin\Debug\AIRecommendationEngine.Common.pdb
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendationEngine.TestingModule3\bin\Debug\AIRecommendationEngine.DataLoader.pdb
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendationEngine.TestingModule3\bin\Debug\AIRecommendationEngine.RatingsAggregator.pdb
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendationEngine.TestingModule3\obj\Debug\AIRecommendationEngine.TestingModule3.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendationEngine.TestingModule3\obj\Debug\AIRecommendationEngine.TestingModule3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendationEngine.TestingModule3\obj\Debug\AIRecommendationEngine.TestingModule3.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendationEngine.TestingModule3\obj\Debug\AIRecommendationEngine.TestingModule3.csproj.CopyComplete
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendationEngine.TestingModule3\obj\Debug\AIRecommendationEngine.TestingModule3.exe
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendationEngine.TestingModule3\obj\Debug\AIRecommendationEngine.TestingModule3.pdb

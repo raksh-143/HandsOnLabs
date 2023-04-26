@@ -1,0 +1,8 @@
+C:\Users\Adnim\source\repos\SkillAssure\SkillAssure\bin\Debug\SkillAssure.exe.config
+C:\Users\Adnim\source\repos\SkillAssure\SkillAssure\bin\Debug\SkillAssure.exe
+C:\Users\Adnim\source\repos\SkillAssure\SkillAssure\bin\Debug\SkillAssure.pdb
+C:\Users\Adnim\source\repos\SkillAssure\SkillAssure\obj\Debug\SkillAssure.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\SkillAssure\SkillAssure\obj\Debug\SkillAssure.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adnim\source\repos\SkillAssure\SkillAssure\obj\Debug\SkillAssure.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\SkillAssure\SkillAssure\obj\Debug\SkillAssure.exe
+C:\Users\Adnim\source\repos\SkillAssure\SkillAssure\obj\Debug\SkillAssure.pdb

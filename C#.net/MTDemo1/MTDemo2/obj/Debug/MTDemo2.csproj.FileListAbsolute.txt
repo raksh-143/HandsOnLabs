@@ -1,0 +1,11 @@
+C:\Users\Adnim\source\repos\MTDemo1\MTDemo2\bin\Debug\MTDemo2.exe.config
+C:\Users\Adnim\source\repos\MTDemo1\MTDemo2\bin\Debug\MTDemo2.exe
+C:\Users\Adnim\source\repos\MTDemo1\MTDemo2\bin\Debug\MTDemo2.pdb
+C:\Users\Adnim\source\repos\MTDemo1\MTDemo2\obj\Debug\MTDemo2.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\MTDemo1\MTDemo2\obj\Debug\MTDemo2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adnim\source\repos\MTDemo1\MTDemo2\obj\Debug\MTDemo2.Form1.resources
+C:\Users\Adnim\source\repos\MTDemo1\MTDemo2\obj\Debug\MTDemo2.Properties.Resources.resources
+C:\Users\Adnim\source\repos\MTDemo1\MTDemo2\obj\Debug\MTDemo2.csproj.GenerateResource.cache
+C:\Users\Adnim\source\repos\MTDemo1\MTDemo2\obj\Debug\MTDemo2.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\MTDemo1\MTDemo2\obj\Debug\MTDemo2.exe
+C:\Users\Adnim\source\repos\MTDemo1\MTDemo2\obj\Debug\MTDemo2.pdb

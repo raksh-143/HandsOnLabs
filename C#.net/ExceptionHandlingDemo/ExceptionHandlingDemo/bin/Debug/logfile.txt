@@ -1,0 +1,2 @@
+2023-02-20 12:03:12.5754|ERROR|ExceptionHandlingDemo.Calculator|Enter only positive numbers
+2023-02-20 12:10:12.7512|DEBUG|ExceptionHandlingDemo.Calculator|Enter only positive numbers

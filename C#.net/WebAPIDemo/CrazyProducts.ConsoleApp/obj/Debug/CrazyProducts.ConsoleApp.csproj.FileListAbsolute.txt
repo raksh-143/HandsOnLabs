@@ -1,0 +1,13 @@
+C:\Users\Adnim\source\repos\WebAPIDemo\CrazyProducts.ConsoleApp\bin\Debug\CrazyProducts.ConsoleApp.exe.config
+C:\Users\Adnim\source\repos\WebAPIDemo\CrazyProducts.ConsoleApp\bin\Debug\CrazyProducts.ConsoleApp.exe
+C:\Users\Adnim\source\repos\WebAPIDemo\CrazyProducts.ConsoleApp\bin\Debug\CrazyProducts.ConsoleApp.pdb
+C:\Users\Adnim\source\repos\WebAPIDemo\CrazyProducts.ConsoleApp\obj\Debug\CrazyProducts.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\WebAPIDemo\CrazyProducts.ConsoleApp\obj\Debug\CrazyProducts.ConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adnim\source\repos\WebAPIDemo\CrazyProducts.ConsoleApp\obj\Debug\CrazyProducts.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\WebAPIDemo\CrazyProducts.ConsoleApp\obj\Debug\CrazyProducts.ConsoleApp.exe
+C:\Users\Adnim\source\repos\WebAPIDemo\CrazyProducts.ConsoleApp\obj\Debug\CrazyProducts.ConsoleApp.pdb
+C:\Users\Adnim\source\repos\WebAPIDemo\CrazyProducts.ConsoleApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Adnim\source\repos\WebAPIDemo\CrazyProducts.ConsoleApp\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Adnim\source\repos\WebAPIDemo\CrazyProducts.ConsoleApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Adnim\source\repos\WebAPIDemo\CrazyProducts.ConsoleApp\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Adnim\source\repos\WebAPIDemo\CrazyProducts.ConsoleApp\obj\Debug\CrazyProducts.ConsoleApp.csproj.CopyComplete

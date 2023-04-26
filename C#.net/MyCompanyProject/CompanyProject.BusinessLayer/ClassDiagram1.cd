@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CompanyProject.BusinessLayer.Entities.Branch" Collapsed="true">
+    <Position X="2.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Branch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompanyProject.BusinessLayer.Entities.Company" Collapsed="true">
+    <Position X="2.5" Y="1" Width="1.5" />
+    <AssociationLine Name="OtherBranches" Type="CompanyProject.BusinessLayer.Entities.Branch">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-0.557" Y="1.218" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="RegisteredBranch" Type="CompanyProject.BusinessLayer.Entities.Branch">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-1.823" Y="0.66" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="CorporateBranch" Type="CompanyProject.BusinessLayer.Entities.Branch">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.885" Y="0.793" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>IAEAAAAAAAIAAAAAAAACAgQAiAAAAAAABgIAAAAAAAg=</HashCode>
+      <FileName>Entities\Company.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="RegisteredBranch" />
+      <Property Name="CorporateBranch" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="Employees" />
+      <Property Name="OtherBranches" />
+      <Property Name="Customers" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="CompanyProject.BusinessLayer.Entities.Employee" Collapsed="true">
+    <Position X="5.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACACAAAAAAAAAAAAAAAACAQAA=</HashCode>
+      <FileName>Entities\Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompanyProject.BusinessLayer.Entities.Customer" Collapsed="true">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompanyProject.BusinessLayer.Person" Collapsed="true">
+    <Position X="7.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAQAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompanyProject.BusinessLayer.Entities.SalaryCalculator" Collapsed="true">
+    <Position X="5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\SalaryCalculator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompanyProject.BusinessLayer.Exceptions.EmployeeDoesNotExistException" Collapsed="true">
+    <Position X="7.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\EmployeeDoesNotExistException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

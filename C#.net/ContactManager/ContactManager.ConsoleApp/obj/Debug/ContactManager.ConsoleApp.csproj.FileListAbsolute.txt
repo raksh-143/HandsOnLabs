@@ -1,0 +1,16 @@
+C:\Users\Adnim\source\repos\ContactManager\ContactManager.ConsoleApp\obj\Debug\ContactManager.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\ContactManager\ContactManager.ConsoleApp\obj\Debug\ContactManager.ConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adnim\source\repos\ContactManager\ContactManager.ConsoleApp\obj\Debug\ContactManager.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\ContactManager\ContactManager.ConsoleApp\bin\Debug\ContactManager.ConsoleApp.exe.config
+C:\Users\Adnim\source\repos\ContactManager\ContactManager.ConsoleApp\bin\Debug\ContactManager.ConsoleApp.exe
+C:\Users\Adnim\source\repos\ContactManager\ContactManager.ConsoleApp\bin\Debug\ContactManager.ConsoleApp.pdb
+C:\Users\Adnim\source\repos\ContactManager\ContactManager.ConsoleApp\bin\Debug\ContactManager.DataAccess.dll
+C:\Users\Adnim\source\repos\ContactManager\ContactManager.ConsoleApp\bin\Debug\ContactManager.DataAccess.pdb
+C:\Users\Adnim\source\repos\ContactManager\ContactManager.ConsoleApp\obj\Debug\ContactManager.ConsoleApp.csproj.CopyComplete
+C:\Users\Adnim\source\repos\ContactManager\ContactManager.ConsoleApp\obj\Debug\ContactManager.ConsoleApp.exe
+C:\Users\Adnim\source\repos\ContactManager\ContactManager.ConsoleApp\obj\Debug\ContactManager.ConsoleApp.pdb
+C:\Users\Adnim\source\repos\ContactManager\ContactManager.ConsoleApp\bin\Debug\EntityFramework.dll
+C:\Users\Adnim\source\repos\ContactManager\ContactManager.ConsoleApp\bin\Debug\ContactManager.DataAccess.dll.config
+C:\Users\Adnim\source\repos\ContactManager\ContactManager.ConsoleApp\bin\Debug\EntityFramework.xml
+C:\Users\Adnim\source\repos\ContactManager\ContactManager.ConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Adnim\source\repos\ContactManager\ContactManager.ConsoleApp\bin\Debug\EntityFramework.SqlServer.xml

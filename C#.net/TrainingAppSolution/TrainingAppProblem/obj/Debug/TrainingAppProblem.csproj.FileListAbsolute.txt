@@ -1,0 +1,8 @@
+C:\Users\Adnim\source\repos\TrainingAppSolution\TrainingAppProblem\bin\Debug\TrainingAppProblem.exe.config
+C:\Users\Adnim\source\repos\TrainingAppSolution\TrainingAppProblem\bin\Debug\TrainingAppProblem.exe
+C:\Users\Adnim\source\repos\TrainingAppSolution\TrainingAppProblem\bin\Debug\TrainingAppProblem.pdb
+C:\Users\Adnim\source\repos\TrainingAppSolution\TrainingAppProblem\obj\Debug\TrainingAppProblem.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\TrainingAppSolution\TrainingAppProblem\obj\Debug\TrainingAppProblem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adnim\source\repos\TrainingAppSolution\TrainingAppProblem\obj\Debug\TrainingAppProblem.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\TrainingAppSolution\TrainingAppProblem\obj\Debug\TrainingAppProblem.exe
+C:\Users\Adnim\source\repos\TrainingAppSolution\TrainingAppProblem\obj\Debug\TrainingAppProblem.pdb

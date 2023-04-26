@@ -1,0 +1,8 @@
+C:\Users\Adnim\source\repos\DesignPatternExercises\DesignPatterns.Exercise1\bin\Debug\DesignPatterns.Exercise1.exe.config
+C:\Users\Adnim\source\repos\DesignPatternExercises\DesignPatterns.Exercise1\bin\Debug\DesignPatterns.Exercise1.exe
+C:\Users\Adnim\source\repos\DesignPatternExercises\DesignPatterns.Exercise1\bin\Debug\DesignPatterns.Exercise1.pdb
+C:\Users\Adnim\source\repos\DesignPatternExercises\DesignPatterns.Exercise1\obj\Debug\DesignPatterns.Exercise1.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\DesignPatternExercises\DesignPatterns.Exercise1\obj\Debug\DesignPatterns.Exercise1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adnim\source\repos\DesignPatternExercises\DesignPatterns.Exercise1\obj\Debug\DesignPatterns.Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\DesignPatternExercises\DesignPatterns.Exercise1\obj\Debug\DesignPatterns.Exercise1.exe
+C:\Users\Adnim\source\repos\DesignPatternExercises\DesignPatterns.Exercise1\obj\Debug\DesignPatterns.Exercise1.pdb

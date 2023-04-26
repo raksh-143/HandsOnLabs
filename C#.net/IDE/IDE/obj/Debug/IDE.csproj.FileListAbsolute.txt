@@ -1,0 +1,8 @@
+C:\Users\Adnim\source\repos\IDE\IDE\bin\Debug\IDE.exe.config
+C:\Users\Adnim\source\repos\IDE\IDE\bin\Debug\IDE.exe
+C:\Users\Adnim\source\repos\IDE\IDE\bin\Debug\IDE.pdb
+C:\Users\Adnim\source\repos\IDE\IDE\obj\Debug\IDE.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\IDE\IDE\obj\Debug\IDE.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adnim\source\repos\IDE\IDE\obj\Debug\IDE.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\IDE\IDE\obj\Debug\IDE.exe
+C:\Users\Adnim\source\repos\IDE\IDE\obj\Debug\IDE.pdb

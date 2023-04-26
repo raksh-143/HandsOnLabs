@@ -1,0 +1,8 @@
+C:\Users\Adnim\source\repos\DesignPatternsDemo\DesignPatternsDemo\bin\Release\DesignPatternsDemo.exe.config
+C:\Users\Adnim\source\repos\DesignPatternsDemo\DesignPatternsDemo\bin\Release\DesignPatternsDemo.exe
+C:\Users\Adnim\source\repos\DesignPatternsDemo\DesignPatternsDemo\bin\Release\DesignPatternsDemo.pdb
+C:\Users\Adnim\source\repos\DesignPatternsDemo\DesignPatternsDemo\obj\Release\PointOfSale.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\DesignPatternsDemo\DesignPatternsDemo\obj\Release\PointOfSale.ConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adnim\source\repos\DesignPatternsDemo\DesignPatternsDemo\obj\Release\PointOfSale.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\DesignPatternsDemo\DesignPatternsDemo\obj\Release\DesignPatternsDemo.exe
+C:\Users\Adnim\source\repos\DesignPatternsDemo\DesignPatternsDemo\obj\Release\DesignPatternsDemo.pdb

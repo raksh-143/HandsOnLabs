@@ -1,0 +1,8 @@
+C:\Users\Adnim\source\repos\BankAppExceptions\BankAppExceptions\bin\Debug\BankAppExceptions.exe.config
+C:\Users\Adnim\source\repos\BankAppExceptions\BankAppExceptions\bin\Debug\BankAppExceptions.exe
+C:\Users\Adnim\source\repos\BankAppExceptions\BankAppExceptions\bin\Debug\BankAppExceptions.pdb
+C:\Users\Adnim\source\repos\BankAppExceptions\BankAppExceptions\obj\Debug\BankAppExceptions.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\BankAppExceptions\BankAppExceptions\obj\Debug\BankAppExceptions.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adnim\source\repos\BankAppExceptions\BankAppExceptions\obj\Debug\BankAppExceptions.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\BankAppExceptions\BankAppExceptions\obj\Debug\BankAppExceptions.exe
+C:\Users\Adnim\source\repos\BankAppExceptions\BankAppExceptions\obj\Debug\BankAppExceptions.pdb

@@ -1,0 +1,6 @@
+C:\Users\Adnim\source\repos\SimpleCalculatorLibrary\SimpleCalculator.DataAccess\bin\Debug\SimpleCalculator.DataAccess.dll
+C:\Users\Adnim\source\repos\SimpleCalculatorLibrary\SimpleCalculator.DataAccess\bin\Debug\SimpleCalculator.DataAccess.pdb
+C:\Users\Adnim\source\repos\SimpleCalculatorLibrary\SimpleCalculator.DataAccess\obj\Debug\SimpleCalculator.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\SimpleCalculatorLibrary\SimpleCalculator.DataAccess\obj\Debug\SimpleCalculator.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\SimpleCalculatorLibrary\SimpleCalculator.DataAccess\obj\Debug\SimpleCalculator.DataAccess.dll
+C:\Users\Adnim\source\repos\SimpleCalculatorLibrary\SimpleCalculator.DataAccess\obj\Debug\SimpleCalculator.DataAccess.pdb

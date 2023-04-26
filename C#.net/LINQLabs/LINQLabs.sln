@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQToXML", "LINQToXML\LINQToXML.csproj", "{153078F5-B988-428B-931D-069BCBD66736}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQToObjects", "LINQToObjects\LINQToObjects.csproj", "{853533D3-21B9-47BE-94F0-1CC0BA86999A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{153078F5-B988-428B-931D-069BCBD66736}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{153078F5-B988-428B-931D-069BCBD66736}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{153078F5-B988-428B-931D-069BCBD66736}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{153078F5-B988-428B-931D-069BCBD66736}.Release|Any CPU.Build.0 = Release|Any CPU
+		{853533D3-21B9-47BE-94F0-1CC0BA86999A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{853533D3-21B9-47BE-94F0-1CC0BA86999A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{853533D3-21B9-47BE-94F0-1CC0BA86999A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{853533D3-21B9-47BE-94F0-1CC0BA86999A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83608CCA-28AD-4FE7-87F4-20B430714C0E}
+	EndGlobalSection
+EndGlobal

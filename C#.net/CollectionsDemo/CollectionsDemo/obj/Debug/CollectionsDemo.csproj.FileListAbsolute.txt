@@ -1,0 +1,8 @@
+C:\Users\Adnim\source\repos\CollectionsDemo\CollectionsDemo\obj\Debug\CollectionsDemo.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\CollectionsDemo\CollectionsDemo\obj\Debug\CollectionsDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adnim\source\repos\CollectionsDemo\CollectionsDemo\obj\Debug\CollectionsDemo.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\CollectionsDemo\CollectionsDemo\bin\Debug\CollectionsDemo.exe.config
+C:\Users\Adnim\source\repos\CollectionsDemo\CollectionsDemo\bin\Debug\CollectionsDemo.exe
+C:\Users\Adnim\source\repos\CollectionsDemo\CollectionsDemo\bin\Debug\CollectionsDemo.pdb
+C:\Users\Adnim\source\repos\CollectionsDemo\CollectionsDemo\obj\Debug\CollectionsDemo.exe
+C:\Users\Adnim\source\repos\CollectionsDemo\CollectionsDemo\obj\Debug\CollectionsDemo.pdb

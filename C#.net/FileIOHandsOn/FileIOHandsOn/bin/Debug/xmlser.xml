@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<ClsCar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Radio>
+    <Make>2874</Make>
+    <Model>xyz</Model>
+  </Radio>
+  <Make>178</Make>
+  <BodyColor>Crimson</BodyColor>
+  <hasAC>false</hasAC>
+  <clsMaruthi>
+    <HasPowerSteering>false</HasPowerSteering>
+  </clsMaruthi>
+</ClsCar>

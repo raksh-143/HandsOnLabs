@@ -1,0 +1,6 @@
+C:\Users\Adnim\source\repos\StudentResult\StudentResult\obj\Debug\StudentResult.Business.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\StudentResult\StudentResult\obj\Debug\StudentResult.Business.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\StudentResult\StudentResult\bin\Debug\StudentResult.dll
+C:\Users\Adnim\source\repos\StudentResult\StudentResult\bin\Debug\StudentResult.pdb
+C:\Users\Adnim\source\repos\StudentResult\StudentResult\obj\Debug\StudentResult.dll
+C:\Users\Adnim\source\repos\StudentResult\StudentResult\obj\Debug\StudentResult.pdb

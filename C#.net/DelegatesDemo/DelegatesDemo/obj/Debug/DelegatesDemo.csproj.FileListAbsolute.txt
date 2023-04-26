@@ -1,0 +1,8 @@
+C:\Users\Adnim\source\repos\DelegatesDemo\DelegatesDemo\bin\Debug\DelegatesDemo.exe.config
+C:\Users\Adnim\source\repos\DelegatesDemo\DelegatesDemo\bin\Debug\DelegatesDemo.exe
+C:\Users\Adnim\source\repos\DelegatesDemo\DelegatesDemo\bin\Debug\DelegatesDemo.pdb
+C:\Users\Adnim\source\repos\DelegatesDemo\DelegatesDemo\obj\Debug\DelegatesDemo.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\DelegatesDemo\DelegatesDemo\obj\Debug\DelegatesDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adnim\source\repos\DelegatesDemo\DelegatesDemo\obj\Debug\DelegatesDemo.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\DelegatesDemo\DelegatesDemo\obj\Debug\DelegatesDemo.exe
+C:\Users\Adnim\source\repos\DelegatesDemo\DelegatesDemo\obj\Debug\DelegatesDemo.pdb

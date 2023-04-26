@@ -1,0 +1,8 @@
+C:\Users\Adnim\source\repos\ExceptionsExercsie12\ExceptionsExercsie12\bin\Debug\ExceptionsExercsie12.exe.config
+C:\Users\Adnim\source\repos\ExceptionsExercsie12\ExceptionsExercsie12\bin\Debug\ExceptionsExercsie12.exe
+C:\Users\Adnim\source\repos\ExceptionsExercsie12\ExceptionsExercsie12\bin\Debug\ExceptionsExercsie12.pdb
+C:\Users\Adnim\source\repos\ExceptionsExercsie12\ExceptionsExercsie12\obj\Debug\ExceptionsExercsie12.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\ExceptionsExercsie12\ExceptionsExercsie12\obj\Debug\ExceptionsExercsie12.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adnim\source\repos\ExceptionsExercsie12\ExceptionsExercsie12\obj\Debug\ExceptionsExercsie12.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\ExceptionsExercsie12\ExceptionsExercsie12\obj\Debug\ExceptionsExercsie12.exe
+C:\Users\Adnim\source\repos\ExceptionsExercsie12\ExceptionsExercsie12\obj\Debug\ExceptionsExercsie12.pdb

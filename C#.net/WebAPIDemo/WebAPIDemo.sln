@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrazyProductsCatalogService", "CrazyProductsCatalogService\CrazyProductsCatalogService.csproj", "{A5EB734F-F2FA-43BE-9A3B-10255CA0D199}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrazyProducts.ConsoleApp", "CrazyProducts.ConsoleApp\CrazyProducts.ConsoleApp.csproj", "{95433CA3-FC9D-4A5E-94BD-04F38F81AD5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5EB734F-F2FA-43BE-9A3B-10255CA0D199}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5EB734F-F2FA-43BE-9A3B-10255CA0D199}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5EB734F-F2FA-43BE-9A3B-10255CA0D199}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5EB734F-F2FA-43BE-9A3B-10255CA0D199}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95433CA3-FC9D-4A5E-94BD-04F38F81AD5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95433CA3-FC9D-4A5E-94BD-04F38F81AD5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95433CA3-FC9D-4A5E-94BD-04F38F81AD5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95433CA3-FC9D-4A5E-94BD-04F38F81AD5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC144A1D-7865-4703-B64B-F1D62D687D76}
+	EndGlobalSection
+EndGlobal

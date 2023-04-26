@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation Layer", "Presentation Layer", "{4542EACA-1AD0-4D98-A438-DCF100EDB2C5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Contact Manager", "Contact Manager", "{54058842-D151-4232-81DB-52E86A82CA5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactManager.ConsoleApp", "ContactManager.ConsoleApp\ContactManager.ConsoleApp.csproj", "{1E8101B1-F274-438E-9A8C-D583C580B269}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data Layer", "Data Layer", "{E3A4C08E-C182-4222-B394-2ED1DE588EBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactManager.DataAccess", "ContactManager.DataAccess\ContactManager.DataAccess.csproj", "{2A9CB7FA-B3A4-4C04-A602-59D9540B8EA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E8101B1-F274-438E-9A8C-D583C580B269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E8101B1-F274-438E-9A8C-D583C580B269}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E8101B1-F274-438E-9A8C-D583C580B269}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E8101B1-F274-438E-9A8C-D583C580B269}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A9CB7FA-B3A4-4C04-A602-59D9540B8EA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A9CB7FA-B3A4-4C04-A602-59D9540B8EA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A9CB7FA-B3A4-4C04-A602-59D9540B8EA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A9CB7FA-B3A4-4C04-A602-59D9540B8EA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4542EACA-1AD0-4D98-A438-DCF100EDB2C5} = {54058842-D151-4232-81DB-52E86A82CA5F}
+		{1E8101B1-F274-438E-9A8C-D583C580B269} = {4542EACA-1AD0-4D98-A438-DCF100EDB2C5}
+		{E3A4C08E-C182-4222-B394-2ED1DE588EBF} = {54058842-D151-4232-81DB-52E86A82CA5F}
+		{2A9CB7FA-B3A4-4C04-A602-59D9540B8EA0} = {E3A4C08E-C182-4222-B394-2ED1DE588EBF}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21D715CB-4967-436E-BD38-558DB3E7B60B}
+	EndGlobalSection
+EndGlobal

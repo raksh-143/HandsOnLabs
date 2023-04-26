@@ -1,0 +1,14 @@
+C:\Users\Adnim\source\repos\StudentResult\StudentResultWindowsFormsApp1\obj\Debug\StudentResultWindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\StudentResult\StudentResultWindowsFormsApp1\obj\Debug\StudentResultWindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adnim\source\repos\StudentResult\StudentResultWindowsFormsApp1\obj\Debug\StudentResultWindowsFormsApp1.Form1.resources
+C:\Users\Adnim\source\repos\StudentResult\StudentResultWindowsFormsApp1\obj\Debug\StudentResultWindowsFormsApp1.Properties.Resources.resources
+C:\Users\Adnim\source\repos\StudentResult\StudentResultWindowsFormsApp1\obj\Debug\StudentResultWindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Adnim\source\repos\StudentResult\StudentResultWindowsFormsApp1\obj\Debug\StudentResultWindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\StudentResult\StudentResultWindowsFormsApp1\bin\Debug\StudentResultWindowsFormsApp1.exe.config
+C:\Users\Adnim\source\repos\StudentResult\StudentResultWindowsFormsApp1\bin\Debug\StudentResultWindowsFormsApp1.exe
+C:\Users\Adnim\source\repos\StudentResult\StudentResultWindowsFormsApp1\bin\Debug\StudentResultWindowsFormsApp1.pdb
+C:\Users\Adnim\source\repos\StudentResult\StudentResultWindowsFormsApp1\bin\Debug\StudentResult.dll
+C:\Users\Adnim\source\repos\StudentResult\StudentResultWindowsFormsApp1\bin\Debug\StudentResult.pdb
+C:\Users\Adnim\source\repos\StudentResult\StudentResultWindowsFormsApp1\obj\Debug\StudentResultWindowsFormsApp1.csproj.CopyComplete
+C:\Users\Adnim\source\repos\StudentResult\StudentResultWindowsFormsApp1\obj\Debug\StudentResultWindowsFormsApp1.exe
+C:\Users\Adnim\source\repos\StudentResult\StudentResultWindowsFormsApp1\obj\Debug\StudentResultWindowsFormsApp1.pdb

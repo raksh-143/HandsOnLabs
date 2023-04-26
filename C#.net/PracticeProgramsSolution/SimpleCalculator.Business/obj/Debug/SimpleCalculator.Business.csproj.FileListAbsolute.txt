@@ -1,0 +1,6 @@
+C:\Users\Adnim\source\repos\PracticeProgramsSolution\SimpleCalculator.Business\bin\Debug\SimpleCalculator.Business.dll
+C:\Users\Adnim\source\repos\PracticeProgramsSolution\SimpleCalculator.Business\bin\Debug\SimpleCalculator.Business.pdb
+C:\Users\Adnim\source\repos\PracticeProgramsSolution\SimpleCalculator.Business\obj\Debug\SimpleCalculator.Business.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\PracticeProgramsSolution\SimpleCalculator.Business\obj\Debug\SimpleCalculator.Business.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\PracticeProgramsSolution\SimpleCalculator.Business\obj\Debug\SimpleCalculator.Business.dll
+C:\Users\Adnim\source\repos\PracticeProgramsSolution\SimpleCalculator.Business\obj\Debug\SimpleCalculator.Business.pdb

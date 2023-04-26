@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<books>
+  <book>
+    <id>bk102</id>
+    <title>Midnight Rain</title>
+    <author>Ralls, Kim</author>
+  </book>
+  <book>
+    <id>bk103</id>
+    <title>Maeve Ascendant</title>
+    <author>Corets, Eva</author>
+  </book>
+  <book>
+    <id>bk104</id>
+    <title>Oberon's Legacy</title>
+    <author>Corets, Eva</author>
+  </book>
+  <book>
+    <id>bk105</id>
+    <title>The Sundered Grail</title>
+    <author>Corets, Eva</author>
+  </book>
+</books>

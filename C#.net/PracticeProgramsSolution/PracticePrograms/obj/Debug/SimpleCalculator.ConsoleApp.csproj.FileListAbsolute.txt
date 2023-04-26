@@ -1,0 +1,11 @@
+C:\Users\Adnim\source\repos\PracticeProgramsSolution\PracticePrograms\bin\Debug\PracticePrograms.exe.config
+C:\Users\Adnim\source\repos\PracticeProgramsSolution\PracticePrograms\bin\Debug\PracticePrograms.exe
+C:\Users\Adnim\source\repos\PracticeProgramsSolution\PracticePrograms\bin\Debug\PracticePrograms.pdb
+C:\Users\Adnim\source\repos\PracticeProgramsSolution\PracticePrograms\obj\Debug\SimpleCalculator.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\PracticeProgramsSolution\PracticePrograms\obj\Debug\SimpleCalculator.ConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adnim\source\repos\PracticeProgramsSolution\PracticePrograms\obj\Debug\SimpleCalculator.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\PracticeProgramsSolution\PracticePrograms\obj\Debug\PracticePrograms.exe
+C:\Users\Adnim\source\repos\PracticeProgramsSolution\PracticePrograms\obj\Debug\PracticePrograms.pdb
+C:\Users\Adnim\source\repos\PracticeProgramsSolution\PracticePrograms\bin\Debug\SimpleCalculator.Business.dll
+C:\Users\Adnim\source\repos\PracticeProgramsSolution\PracticePrograms\bin\Debug\SimpleCalculator.Business.pdb
+C:\Users\Adnim\source\repos\PracticeProgramsSolution\PracticePrograms\obj\Debug\SimpleCalculator.ConsoleApp.csproj.CopyComplete

@@ -1,0 +1,8 @@
+C:\Users\Adnim\source\repos\CountingWordsInASentence\CountingWordsInASentence\bin\Debug\CountingWordsInASentence.exe.config
+C:\Users\Adnim\source\repos\CountingWordsInASentence\CountingWordsInASentence\bin\Debug\CountingWordsInASentence.exe
+C:\Users\Adnim\source\repos\CountingWordsInASentence\CountingWordsInASentence\bin\Debug\CountingWordsInASentence.pdb
+C:\Users\Adnim\source\repos\CountingWordsInASentence\CountingWordsInASentence\obj\Debug\CountingWordsInASentence.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\CountingWordsInASentence\CountingWordsInASentence\obj\Debug\CountingWordsInASentence.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adnim\source\repos\CountingWordsInASentence\CountingWordsInASentence\obj\Debug\CountingWordsInASentence.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\CountingWordsInASentence\CountingWordsInASentence\obj\Debug\CountingWordsInASentence.exe
+C:\Users\Adnim\source\repos\CountingWordsInASentence\CountingWordsInASentence\obj\Debug\CountingWordsInASentence.pdb

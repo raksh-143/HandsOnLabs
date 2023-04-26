@@ -1,0 +1,8 @@
+C:\Users\Adnim\source\repos\MembershipApp\MembershipApp\bin\Debug\MembershipApp.exe.config
+C:\Users\Adnim\source\repos\MembershipApp\MembershipApp\bin\Debug\MembershipApp.exe
+C:\Users\Adnim\source\repos\MembershipApp\MembershipApp\bin\Debug\MembershipApp.pdb
+C:\Users\Adnim\source\repos\MembershipApp\MembershipApp\obj\Debug\MembershipApp.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\MembershipApp\MembershipApp\obj\Debug\MembershipApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adnim\source\repos\MembershipApp\MembershipApp\obj\Debug\MembershipApp.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\MembershipApp\MembershipApp\obj\Debug\MembershipApp.exe
+C:\Users\Adnim\source\repos\MembershipApp\MembershipApp\obj\Debug\MembershipApp.pdb

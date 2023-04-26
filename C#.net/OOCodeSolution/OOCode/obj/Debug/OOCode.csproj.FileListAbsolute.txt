@@ -1,0 +1,8 @@
+C:\Users\Adnim\source\repos\OOCodeSolution\OOCode\bin\Debug\OOCode.exe.config
+C:\Users\Adnim\source\repos\OOCodeSolution\OOCode\bin\Debug\OOCode.exe
+C:\Users\Adnim\source\repos\OOCodeSolution\OOCode\bin\Debug\OOCode.pdb
+C:\Users\Adnim\source\repos\OOCodeSolution\OOCode\obj\Debug\OOCode.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\OOCodeSolution\OOCode\obj\Debug\OOCode.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adnim\source\repos\OOCodeSolution\OOCode\obj\Debug\OOCode.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\OOCodeSolution\OOCode\obj\Debug\OOCode.exe
+C:\Users\Adnim\source\repos\OOCodeSolution\OOCode\obj\Debug\OOCode.pdb

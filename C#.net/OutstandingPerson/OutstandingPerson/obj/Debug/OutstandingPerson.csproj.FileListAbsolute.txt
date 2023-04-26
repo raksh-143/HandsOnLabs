@@ -1,0 +1,8 @@
+C:\Users\Adnim\source\repos\OutstandingPerson\OutstandingPerson\bin\Debug\OutstandingPerson.exe.config
+C:\Users\Adnim\source\repos\OutstandingPerson\OutstandingPerson\bin\Debug\OutstandingPerson.exe
+C:\Users\Adnim\source\repos\OutstandingPerson\OutstandingPerson\bin\Debug\OutstandingPerson.pdb
+C:\Users\Adnim\source\repos\OutstandingPerson\OutstandingPerson\obj\Debug\OutstandingPerson.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\OutstandingPerson\OutstandingPerson\obj\Debug\OutstandingPerson.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adnim\source\repos\OutstandingPerson\OutstandingPerson\obj\Debug\OutstandingPerson.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\OutstandingPerson\OutstandingPerson\obj\Debug\OutstandingPerson.exe
+C:\Users\Adnim\source\repos\OutstandingPerson\OutstandingPerson\obj\Debug\OutstandingPerson.pdb

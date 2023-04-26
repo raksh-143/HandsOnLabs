@@ -1,0 +1,6 @@
+C:\Users\Adnim\source\repos\MyCompanyProject\CompanyProject.BusinessLayer\bin\Debug\CompanyProject.BusinessLayer.dll
+C:\Users\Adnim\source\repos\MyCompanyProject\CompanyProject.BusinessLayer\bin\Debug\CompanyProject.BusinessLayer.pdb
+C:\Users\Adnim\source\repos\MyCompanyProject\CompanyProject.BusinessLayer\obj\Debug\CompanyProject.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\MyCompanyProject\CompanyProject.BusinessLayer\obj\Debug\CompanyProject.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\MyCompanyProject\CompanyProject.BusinessLayer\obj\Debug\CompanyProject.BusinessLayer.dll
+C:\Users\Adnim\source\repos\MyCompanyProject\CompanyProject.BusinessLayer\obj\Debug\CompanyProject.BusinessLayer.pdb

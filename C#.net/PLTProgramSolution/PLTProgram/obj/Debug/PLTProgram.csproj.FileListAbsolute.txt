@@ -1,0 +1,8 @@
+C:\Users\Adnim\source\repos\PLTProgramSolution\PLTProgram\bin\Debug\PLTProgram.exe.config
+C:\Users\Adnim\source\repos\PLTProgramSolution\PLTProgram\bin\Debug\PLTProgram.exe
+C:\Users\Adnim\source\repos\PLTProgramSolution\PLTProgram\bin\Debug\PLTProgram.pdb
+C:\Users\Adnim\source\repos\PLTProgramSolution\PLTProgram\obj\Debug\PLTProgram.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\PLTProgramSolution\PLTProgram\obj\Debug\PLTProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adnim\source\repos\PLTProgramSolution\PLTProgram\obj\Debug\PLTProgram.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\PLTProgramSolution\PLTProgram\obj\Debug\PLTProgram.exe
+C:\Users\Adnim\source\repos\PLTProgramSolution\PLTProgram\obj\Debug\PLTProgram.pdb

@@ -1,0 +1,11 @@
+C:\Users\Adnim\source\repos\MyTransactionDemo\TransactionDemo.UILayer\bin\Debug\TransactionDemo.UILayer.exe.config
+C:\Users\Adnim\source\repos\MyTransactionDemo\TransactionDemo.UILayer\bin\Debug\TransactionDemo.UILayer.exe
+C:\Users\Adnim\source\repos\MyTransactionDemo\TransactionDemo.UILayer\bin\Debug\TransactionDemo.UILayer.pdb
+C:\Users\Adnim\source\repos\MyTransactionDemo\TransactionDemo.UILayer\bin\Debug\TransactionDemo.DataLayer.dll
+C:\Users\Adnim\source\repos\MyTransactionDemo\TransactionDemo.UILayer\bin\Debug\TransactionDemo.DataLayer.pdb
+C:\Users\Adnim\source\repos\MyTransactionDemo\TransactionDemo.UILayer\obj\Debug\TransactionDemo.UILayer.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\MyTransactionDemo\TransactionDemo.UILayer\obj\Debug\TransactionDemo.UILayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adnim\source\repos\MyTransactionDemo\TransactionDemo.UILayer\obj\Debug\TransactionDemo.UILayer.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\MyTransactionDemo\TransactionDemo.UILayer\obj\Debug\TransactionDemo.UILayer.csproj.CopyComplete
+C:\Users\Adnim\source\repos\MyTransactionDemo\TransactionDemo.UILayer\obj\Debug\TransactionDemo.UILayer.exe
+C:\Users\Adnim\source\repos\MyTransactionDemo\TransactionDemo.UILayer\obj\Debug\TransactionDemo.UILayer.pdb

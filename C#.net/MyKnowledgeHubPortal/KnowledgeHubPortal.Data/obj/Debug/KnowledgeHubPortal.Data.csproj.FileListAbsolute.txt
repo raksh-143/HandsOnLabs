@@ -1,0 +1,16 @@
+C:\Users\Adnim\source\repos\MyKnowledgeHubPortal\KnowledgeHubPortal.Data\bin\Debug\KnowledgeHubPortal.Data.dll
+C:\Users\Adnim\source\repos\MyKnowledgeHubPortal\KnowledgeHubPortal.Data\bin\Debug\KnowledgeHubPortal.Data.pdb
+C:\Users\Adnim\source\repos\MyKnowledgeHubPortal\KnowledgeHubPortal.Data\obj\Debug\KnowledgeHubPortal.Data.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\MyKnowledgeHubPortal\KnowledgeHubPortal.Data\obj\Debug\KnowledgeHubPortal.Data.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\MyKnowledgeHubPortal\KnowledgeHubPortal.Data\obj\Debug\KnowledgeHubPortal.Data.dll
+C:\Users\Adnim\source\repos\MyKnowledgeHubPortal\KnowledgeHubPortal.Data\obj\Debug\KnowledgeHubPortal.Data.pdb
+C:\Users\Adnim\source\repos\MyKnowledgeHubPortal\KnowledgeHubPortal.Data\bin\Debug\KnowledgeHubPortal.Data.dll.config
+C:\Users\Adnim\source\repos\MyKnowledgeHubPortal\KnowledgeHubPortal.Data\bin\Debug\EntityFramework.dll
+C:\Users\Adnim\source\repos\MyKnowledgeHubPortal\KnowledgeHubPortal.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Adnim\source\repos\MyKnowledgeHubPortal\KnowledgeHubPortal.Data\bin\Debug\KnowledgeHubPortal.Domain.dll
+C:\Users\Adnim\source\repos\MyKnowledgeHubPortal\KnowledgeHubPortal.Data\bin\Debug\KnowledgeHubPortal.Domain.pdb
+C:\Users\Adnim\source\repos\MyKnowledgeHubPortal\KnowledgeHubPortal.Data\bin\Debug\EntityFramework.xml
+C:\Users\Adnim\source\repos\MyKnowledgeHubPortal\KnowledgeHubPortal.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Adnim\source\repos\MyKnowledgeHubPortal\KnowledgeHubPortal.Data\obj\Debug\KnowledgeHubPortal.Data.csproj.CopyComplete
+C:\Users\Adnim\source\repos\MyKnowledgeHubPortal\KnowledgeHubPortal.Data\obj\Debug\KnowledgeHubPortal.Data.Migrations.InitialCreate.resources
+C:\Users\Adnim\source\repos\MyKnowledgeHubPortal\KnowledgeHubPortal.Data\obj\Debug\KnowledgeHubPortal.Data.csproj.GenerateResource.cache

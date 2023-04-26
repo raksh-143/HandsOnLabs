@@ -1,0 +1,6 @@
+C:\Users\Adnim\source\repos\MyMovieRecommendation\MovieRecommendation.BusinessLayer\bin\Debug\MovieRecommendation.BusinessLayer.dll
+C:\Users\Adnim\source\repos\MyMovieRecommendation\MovieRecommendation.BusinessLayer\bin\Debug\MovieRecommendation.BusinessLayer.pdb
+C:\Users\Adnim\source\repos\MyMovieRecommendation\MovieRecommendation.BusinessLayer\obj\Debug\MovieRecommendation.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\MyMovieRecommendation\MovieRecommendation.BusinessLayer\obj\Debug\MovieRecommendation.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\MyMovieRecommendation\MovieRecommendation.BusinessLayer\obj\Debug\MovieRecommendation.BusinessLayer.dll
+C:\Users\Adnim\source\repos\MyMovieRecommendation\MovieRecommendation.BusinessLayer\obj\Debug\MovieRecommendation.BusinessLayer.pdb

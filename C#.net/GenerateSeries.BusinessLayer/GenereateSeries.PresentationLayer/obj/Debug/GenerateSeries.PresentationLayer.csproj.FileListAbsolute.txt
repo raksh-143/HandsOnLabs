@@ -1,0 +1,11 @@
+C:\Users\Adnim\source\repos\GenerateSeries.BusinessLayer\GenereateSeries.PresentationLayer\bin\Debug\GenereateSeries.PresentationLayer.exe.config
+C:\Users\Adnim\source\repos\GenerateSeries.BusinessLayer\GenereateSeries.PresentationLayer\bin\Debug\GenereateSeries.PresentationLayer.exe
+C:\Users\Adnim\source\repos\GenerateSeries.BusinessLayer\GenereateSeries.PresentationLayer\bin\Debug\GenereateSeries.PresentationLayer.pdb
+C:\Users\Adnim\source\repos\GenerateSeries.BusinessLayer\GenereateSeries.PresentationLayer\bin\Debug\GenerateSeries.BusinessLayer.dll
+C:\Users\Adnim\source\repos\GenerateSeries.BusinessLayer\GenereateSeries.PresentationLayer\bin\Debug\GenerateSeries.BusinessLayer.pdb
+C:\Users\Adnim\source\repos\GenerateSeries.BusinessLayer\GenereateSeries.PresentationLayer\obj\Debug\GenerateSeries.PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\GenerateSeries.BusinessLayer\GenereateSeries.PresentationLayer\obj\Debug\GenerateSeries.PresentationLayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adnim\source\repos\GenerateSeries.BusinessLayer\GenereateSeries.PresentationLayer\obj\Debug\GenerateSeries.PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\GenerateSeries.BusinessLayer\GenereateSeries.PresentationLayer\obj\Debug\GenerateSeries.PresentationLayer.csproj.CopyComplete
+C:\Users\Adnim\source\repos\GenerateSeries.BusinessLayer\GenereateSeries.PresentationLayer\obj\Debug\GenereateSeries.PresentationLayer.exe
+C:\Users\Adnim\source\repos\GenerateSeries.BusinessLayer\GenereateSeries.PresentationLayer\obj\Debug\GenereateSeries.PresentationLayer.pdb

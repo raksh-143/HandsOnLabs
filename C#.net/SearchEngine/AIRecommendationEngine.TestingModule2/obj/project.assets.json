@@ -1,0 +1,111 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "AIRecommendationEngine.Common/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/AIRecommendationEngine.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AIRecommendationEngine.Common.dll": {}
+        }
+      },
+      "AIRecommendationEngine.DataLoader/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "AIRecommendationEngine.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/AIRecommendationEngine.DataLoader.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AIRecommendationEngine.DataLoader.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AIRecommendationEngine.Common/1.0.0": {
+      "type": "project",
+      "path": "../AIRecommendationEngine.Common/AIRecommendationEngine.Common.csproj",
+      "msbuildProject": "../AIRecommendationEngine.Common/AIRecommendationEngine.Common.csproj"
+    },
+    "AIRecommendationEngine.DataLoader/1.0.0": {
+      "type": "project",
+      "path": "../AIRecommendationEngine.DataLoader/AIRecommendationEngine.DataLoader.csproj",
+      "msbuildProject": "../AIRecommendationEngine.DataLoader/AIRecommendationEngine.DataLoader.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "AIRecommendationEngine.Common >= 1.0.0",
+      "AIRecommendationEngine.DataLoader >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Adnim\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Adnim\\source\\repos\\SearchEngine\\AIRecommendationEngine.TestingModule2\\AIRecommendationEngine.TestingModule2.csproj",
+      "projectName": "AIRecommendationEngine.TestingModule2",
+      "projectPath": "C:\\Users\\Adnim\\source\\repos\\SearchEngine\\AIRecommendationEngine.TestingModule2\\AIRecommendationEngine.TestingModule2.csproj",
+      "packagesPath": "C:\\Users\\Adnim\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Adnim\\source\\repos\\SearchEngine\\AIRecommendationEngine.TestingModule2\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Adnim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\Adnim\\source\\repos\\SearchEngine\\AIRecommendationEngine.Common\\AIRecommendationEngine.Common.csproj": {
+              "projectPath": "C:\\Users\\Adnim\\source\\repos\\SearchEngine\\AIRecommendationEngine.Common\\AIRecommendationEngine.Common.csproj"
+            },
+            "C:\\Users\\Adnim\\source\\repos\\SearchEngine\\AIRecommendationEngine.DataLoader\\AIRecommendationEngine.DataLoader.csproj": {
+              "projectPath": "C:\\Users\\Adnim\\source\\repos\\SearchEngine\\AIRecommendationEngine.DataLoader\\AIRecommendationEngine.DataLoader.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

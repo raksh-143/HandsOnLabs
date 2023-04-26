@@ -1,0 +1,8 @@
+C:\Users\Adnim\source\repos\MTDemo1\MTDemo3\bin\Debug\MTDemo3.exe.config
+C:\Users\Adnim\source\repos\MTDemo1\MTDemo3\bin\Debug\MTDemo3.exe
+C:\Users\Adnim\source\repos\MTDemo1\MTDemo3\bin\Debug\MTDemo3.pdb
+C:\Users\Adnim\source\repos\MTDemo1\MTDemo3\obj\Debug\MTDemo3.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\MTDemo1\MTDemo3\obj\Debug\MTDemo3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adnim\source\repos\MTDemo1\MTDemo3\obj\Debug\MTDemo3.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\MTDemo1\MTDemo3\obj\Debug\MTDemo3.exe
+C:\Users\Adnim\source\repos\MTDemo1\MTDemo3\obj\Debug\MTDemo3.pdb

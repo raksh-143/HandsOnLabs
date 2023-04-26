@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CompanyOrdersProject.Branch" Collapsed="true">
+    <Position X="2.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Branch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompanyOrdersProject.Company" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <AssociationLine Name="Branches" Type="CompanyOrdersProject.Branch">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-0.357" Y="0.585" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="CorporateBranch" Type="CompanyOrdersProject.Branch">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-1.357" Y="0.027" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="RegisteredBranch" Type="CompanyOrdersProject.Branch">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.393" Y="0.243" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>IKEAQAAAAAAAgAAAAAAAAAQAiAAAAAAAAAIAAAAAAAg=</HashCode>
+      <FileName>Company.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="CorporateBranch" />
+      <Property Name="RegisteredBranch" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="Branches" />
+      <Property Name="Customers" />
+      <Property Name="Employees" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="CompanyOrdersProject.Customer" Collapsed="true">
+    <Position X="6.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompanyOrdersProject.Employee" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACACAAAAAAAAAAAAAAAACAQAA=</HashCode>
+      <FileName>Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompanyOrdersProject.Person" Collapsed="true">
+    <Position X="9.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAQAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompanyOrdersProject.SalaryCalculator" Collapsed="true">
+    <Position X="3.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SalaryCalculator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompanyOrdersProject.Program" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,8 @@
+C:\Users\Adnim\source\repos\LINQDemo\LanguageEnhancementDemo\bin\Debug\LanguageEnhancementDemo.exe.config
+C:\Users\Adnim\source\repos\LINQDemo\LanguageEnhancementDemo\bin\Debug\LanguageEnhancementDemo.exe
+C:\Users\Adnim\source\repos\LINQDemo\LanguageEnhancementDemo\bin\Debug\LanguageEnhancementDemo.pdb
+C:\Users\Adnim\source\repos\LINQDemo\LanguageEnhancementDemo\obj\Debug\LanguageEnhancementDemo.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\LINQDemo\LanguageEnhancementDemo\obj\Debug\LanguageEnhancementDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adnim\source\repos\LINQDemo\LanguageEnhancementDemo\obj\Debug\LanguageEnhancementDemo.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\LINQDemo\LanguageEnhancementDemo\obj\Debug\LanguageEnhancementDemo.exe
+C:\Users\Adnim\source\repos\LINQDemo\LanguageEnhancementDemo\obj\Debug\LanguageEnhancementDemo.pdb

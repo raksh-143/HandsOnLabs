@@ -1,0 +1,16 @@
+C:\Users\Adnim\source\repos\Events-Lab\Events.Data\bin\Debug\Events.Data.dll.config
+C:\Users\Adnim\source\repos\Events-Lab\Events.Data\bin\Debug\Events.Data.dll
+C:\Users\Adnim\source\repos\Events-Lab\Events.Data\bin\Debug\Events.Data.pdb
+C:\Users\Adnim\source\repos\Events-Lab\Events.Data\bin\Debug\EntityFramework.dll
+C:\Users\Adnim\source\repos\Events-Lab\Events.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Adnim\source\repos\Events-Lab\Events.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Adnim\source\repos\Events-Lab\Events.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Adnim\source\repos\Events-Lab\Events.Data\bin\Debug\EntityFramework.xml
+C:\Users\Adnim\source\repos\Events-Lab\Events.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Adnim\source\repos\Events-Lab\Events.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Adnim\source\repos\Events-Lab\Events.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Adnim\source\repos\Events-Lab\Events.Data\obj\Debug\Events.Data.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\Events-Lab\Events.Data\obj\Debug\Events.Data.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\Events-Lab\Events.Data\obj\Debug\Events.Data.csproj.CopyComplete
+C:\Users\Adnim\source\repos\Events-Lab\Events.Data\obj\Debug\Events.Data.dll
+C:\Users\Adnim\source\repos\Events-Lab\Events.Data\obj\Debug\Events.Data.pdb

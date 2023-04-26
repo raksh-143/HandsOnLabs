@@ -1,0 +1,9 @@
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendationEngine.RatingsAggregator\bin\Debug\AIRecommendationEngine.RatingsAggregator.dll
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendationEngine.RatingsAggregator\bin\Debug\AIRecommendationEngine.RatingsAggregator.pdb
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendationEngine.RatingsAggregator\bin\Debug\AIRecommendationEngine.Common.dll
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendationEngine.RatingsAggregator\bin\Debug\AIRecommendationEngine.Common.pdb
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendationEngine.RatingsAggregator\obj\Debug\AIRecommendationEngine.RatingsAggregator.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendationEngine.RatingsAggregator\obj\Debug\AIRecommendationEngine.RatingsAggregator.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendationEngine.RatingsAggregator\obj\Debug\AIRecommendationEngine.RatingsAggregator.csproj.CopyComplete
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendationEngine.RatingsAggregator\obj\Debug\AIRecommendationEngine.RatingsAggregator.dll
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendationEngine.RatingsAggregator\obj\Debug\AIRecommendationEngine.RatingsAggregator.pdb

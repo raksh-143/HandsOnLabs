@@ -1,0 +1,15 @@
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendationEngine.Integrator\bin\Debug\AIRecommendationEngine.Integrator.dll
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendationEngine.Integrator\bin\Debug\AIRecommendationEngine.Integrator.pdb
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendationEngine.Integrator\bin\Debug\AIRecommendationEngine.Common.dll
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendationEngine.Integrator\bin\Debug\AIRecommendationEngine.CoreRecommender.dll
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendationEngine.Integrator\bin\Debug\AIRecommendationEngine.DataLoader.dll
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendationEngine.Integrator\bin\Debug\AIRecommendationEngine.RatingsAggregator.dll
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendationEngine.Integrator\bin\Debug\AIRecommendationEngine.Common.pdb
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendationEngine.Integrator\bin\Debug\AIRecommendationEngine.CoreRecommender.pdb
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendationEngine.Integrator\bin\Debug\AIRecommendationEngine.DataLoader.pdb
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendationEngine.Integrator\bin\Debug\AIRecommendationEngine.RatingsAggregator.pdb
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendationEngine.Integrator\obj\Debug\AIRecommendationEngine.Integrator.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendationEngine.Integrator\obj\Debug\AIRecommendationEngine.Integrator.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendationEngine.Integrator\obj\Debug\AIRecommendationEngine.Integrator.csproj.CopyComplete
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendationEngine.Integrator\obj\Debug\AIRecommendationEngine.Integrator.dll
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendationEngine.Integrator\obj\Debug\AIRecommendationEngine.Integrator.pdb

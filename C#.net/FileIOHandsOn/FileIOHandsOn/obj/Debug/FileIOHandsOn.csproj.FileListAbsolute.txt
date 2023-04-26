@@ -1,0 +1,8 @@
+C:\Users\Adnim\source\repos\FileIOHandsOn\FileIOHandsOn\bin\Debug\FileIOHandsOn.exe.config
+C:\Users\Adnim\source\repos\FileIOHandsOn\FileIOHandsOn\bin\Debug\FileIOHandsOn.exe
+C:\Users\Adnim\source\repos\FileIOHandsOn\FileIOHandsOn\bin\Debug\FileIOHandsOn.pdb
+C:\Users\Adnim\source\repos\FileIOHandsOn\FileIOHandsOn\obj\Debug\FileIOHandsOn.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\FileIOHandsOn\FileIOHandsOn\obj\Debug\FileIOHandsOn.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adnim\source\repos\FileIOHandsOn\FileIOHandsOn\obj\Debug\FileIOHandsOn.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\FileIOHandsOn\FileIOHandsOn\obj\Debug\FileIOHandsOn.exe
+C:\Users\Adnim\source\repos\FileIOHandsOn\FileIOHandsOn\obj\Debug\FileIOHandsOn.pdb

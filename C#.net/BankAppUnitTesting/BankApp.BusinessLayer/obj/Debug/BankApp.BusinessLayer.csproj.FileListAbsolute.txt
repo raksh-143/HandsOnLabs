@@ -1,0 +1,9 @@
+C:\Users\Adnim\source\repos\BankAppUnitTesting\BankApp.BusinessLayer\bin\Debug\BankApp.BusinessLayer.dll
+C:\Users\Adnim\source\repos\BankAppUnitTesting\BankApp.BusinessLayer\bin\Debug\BankApp.BusinessLayer.pdb
+C:\Users\Adnim\source\repos\BankAppUnitTesting\BankApp.BusinessLayer\obj\Debug\BankApp.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\BankAppUnitTesting\BankApp.BusinessLayer\obj\Debug\BankApp.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\BankAppUnitTesting\BankApp.BusinessLayer\obj\Debug\BankApp.BusinessLayer.dll
+C:\Users\Adnim\source\repos\BankAppUnitTesting\BankApp.BusinessLayer\obj\Debug\BankApp.BusinessLayer.pdb
+C:\Users\Adnim\source\repos\BankAppUnitTesting\BankApp.BusinessLayer\bin\Debug\BankApp.DataAccessLayer.dll
+C:\Users\Adnim\source\repos\BankAppUnitTesting\BankApp.BusinessLayer\bin\Debug\BankApp.DataAccessLayer.pdb
+C:\Users\Adnim\source\repos\BankAppUnitTesting\BankApp.BusinessLayer\obj\Debug\BankApp.BusinessLayer.csproj.CopyComplete

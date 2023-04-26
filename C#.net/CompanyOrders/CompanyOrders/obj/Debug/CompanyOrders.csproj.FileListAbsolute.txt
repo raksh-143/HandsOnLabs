@@ -1,0 +1,8 @@
+C:\Users\Adnim\source\repos\CompanyOrders\CompanyOrders\bin\Debug\CompanyOrders.exe.config
+C:\Users\Adnim\source\repos\CompanyOrders\CompanyOrders\bin\Debug\CompanyOrders.exe
+C:\Users\Adnim\source\repos\CompanyOrders\CompanyOrders\bin\Debug\CompanyOrders.pdb
+C:\Users\Adnim\source\repos\CompanyOrders\CompanyOrders\obj\Debug\CompanyOrders.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\CompanyOrders\CompanyOrders\obj\Debug\CompanyOrders.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adnim\source\repos\CompanyOrders\CompanyOrders\obj\Debug\CompanyOrders.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\CompanyOrders\CompanyOrders\obj\Debug\CompanyOrders.exe
+C:\Users\Adnim\source\repos\CompanyOrders\CompanyOrders\obj\Debug\CompanyOrders.pdb

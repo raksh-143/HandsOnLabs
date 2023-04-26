@@ -1,0 +1,6 @@
+C:\Users\Adnim\source\repos\PhoneNumberValidation\PhoneNumberValidationLogic\bin\Debug\PhoneNumberValidationLogic.dll
+C:\Users\Adnim\source\repos\PhoneNumberValidation\PhoneNumberValidationLogic\bin\Debug\PhoneNumberValidationLogic.pdb
+C:\Users\Adnim\source\repos\PhoneNumberValidation\PhoneNumberValidationLogic\obj\Debug\PhoneNumberValidation.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\PhoneNumberValidation\PhoneNumberValidationLogic\obj\Debug\PhoneNumberValidation.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\PhoneNumberValidation\PhoneNumberValidationLogic\obj\Debug\PhoneNumberValidationLogic.dll
+C:\Users\Adnim\source\repos\PhoneNumberValidation\PhoneNumberValidationLogic\obj\Debug\PhoneNumberValidationLogic.pdb

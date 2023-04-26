@@ -1,0 +1,6 @@
+C:\Users\Adnim\source\repos\SellPhonesStore\SellPhonesStore.Entities\bin\Debug\SellPhonesStore.Entities.dll
+C:\Users\Adnim\source\repos\SellPhonesStore\SellPhonesStore.Entities\bin\Debug\SellPhonesStore.Entities.pdb
+C:\Users\Adnim\source\repos\SellPhonesStore\SellPhonesStore.Entities\obj\Debug\SellPhonesStore.Entities.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\SellPhonesStore\SellPhonesStore.Entities\obj\Debug\SellPhonesStore.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\SellPhonesStore\SellPhonesStore.Entities\obj\Debug\SellPhonesStore.Entities.dll
+C:\Users\Adnim\source\repos\SellPhonesStore\SellPhonesStore.Entities\obj\Debug\SellPhonesStore.Entities.pdb

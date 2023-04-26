@@ -1,0 +1,6 @@
+C:\Users\Adnim\source\repos\BankAppUnitTesting\BankApp.DataAccessLayer\bin\Debug\BankApp.DataAccessLayer.dll
+C:\Users\Adnim\source\repos\BankAppUnitTesting\BankApp.DataAccessLayer\bin\Debug\BankApp.DataAccessLayer.pdb
+C:\Users\Adnim\source\repos\BankAppUnitTesting\BankApp.DataAccessLayer\obj\Debug\BankApp.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\BankAppUnitTesting\BankApp.DataAccessLayer\obj\Debug\BankApp.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\BankAppUnitTesting\BankApp.DataAccessLayer\obj\Debug\BankApp.DataAccessLayer.dll
+C:\Users\Adnim\source\repos\BankAppUnitTesting\BankApp.DataAccessLayer\obj\Debug\BankApp.DataAccessLayer.pdb

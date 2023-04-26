@@ -1,0 +1,13 @@
+C:\Users\Adnim\source\repos\Db-Apps-Lab\EF-Mappings-Mountains\bin\Debug\EF-Mappings-Mountains.exe.config
+C:\Users\Adnim\source\repos\Db-Apps-Lab\EF-Mappings-Mountains\bin\Debug\EF-Mappings-Mountains.exe
+C:\Users\Adnim\source\repos\Db-Apps-Lab\EF-Mappings-Mountains\bin\Debug\EF-Mappings-Mountains.pdb
+C:\Users\Adnim\source\repos\Db-Apps-Lab\EF-Mappings-Mountains\bin\Debug\EntityFramework.dll
+C:\Users\Adnim\source\repos\Db-Apps-Lab\EF-Mappings-Mountains\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Adnim\source\repos\Db-Apps-Lab\EF-Mappings-Mountains\bin\Debug\EntityFramework.xml
+C:\Users\Adnim\source\repos\Db-Apps-Lab\EF-Mappings-Mountains\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Adnim\source\repos\Db-Apps-Lab\EF-Mappings-Mountains\obj\Debug\EF-Mappings-Mountains.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\Db-Apps-Lab\EF-Mappings-Mountains\obj\Debug\EF-Mappings-Mountains.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adnim\source\repos\Db-Apps-Lab\EF-Mappings-Mountains\obj\Debug\EF-Mappings-Mountains.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\Db-Apps-Lab\EF-Mappings-Mountains\obj\Debug\EF-Mappings-Mountains.csproj.CopyComplete
+C:\Users\Adnim\source\repos\Db-Apps-Lab\EF-Mappings-Mountains\obj\Debug\EF-Mappings-Mountains.exe
+C:\Users\Adnim\source\repos\Db-Apps-Lab\EF-Mappings-Mountains\obj\Debug\EF-Mappings-Mountains.pdb

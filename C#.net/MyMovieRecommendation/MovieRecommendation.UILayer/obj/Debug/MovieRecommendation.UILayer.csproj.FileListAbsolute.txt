@@ -1,0 +1,11 @@
+C:\Users\Adnim\source\repos\MyMovieRecommendation\MovieRecommendation.UILayer\bin\Debug\MovieRecommendation.UILayer.exe.config
+C:\Users\Adnim\source\repos\MyMovieRecommendation\MovieRecommendation.UILayer\bin\Debug\MovieRecommendation.UILayer.exe
+C:\Users\Adnim\source\repos\MyMovieRecommendation\MovieRecommendation.UILayer\bin\Debug\MovieRecommendation.UILayer.pdb
+C:\Users\Adnim\source\repos\MyMovieRecommendation\MovieRecommendation.UILayer\bin\Debug\MovieRecommendation.BusinessLayer.dll
+C:\Users\Adnim\source\repos\MyMovieRecommendation\MovieRecommendation.UILayer\bin\Debug\MovieRecommendation.BusinessLayer.pdb
+C:\Users\Adnim\source\repos\MyMovieRecommendation\MovieRecommendation.UILayer\obj\Debug\MovieRecommendation.UILayer.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\MyMovieRecommendation\MovieRecommendation.UILayer\obj\Debug\MovieRecommendation.UILayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adnim\source\repos\MyMovieRecommendation\MovieRecommendation.UILayer\obj\Debug\MovieRecommendation.UILayer.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\MyMovieRecommendation\MovieRecommendation.UILayer\obj\Debug\MovieRecommendation.UILayer.csproj.CopyComplete
+C:\Users\Adnim\source\repos\MyMovieRecommendation\MovieRecommendation.UILayer\obj\Debug\MovieRecommendation.UILayer.exe
+C:\Users\Adnim\source\repos\MyMovieRecommendation\MovieRecommendation.UILayer\obj\Debug\MovieRecommendation.UILayer.pdb

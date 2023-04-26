@@ -1,0 +1,44 @@
+{
+    "cars":[
+        {
+            "name": "Vitara Brezza",
+            "model": "AS67",
+            "price": 1500000,
+            "usage_info": "Used for 3 years",
+            "brand": "Maruthi Suzuki",
+            "fuel_type": "Diesel"
+        },
+        {
+            "name": "Creta",
+            "model": "SDJ78",
+            "price": 2000000,
+            "usage_info": "Used for 2 years",
+            "brand": "Hyundai",
+            "fuel_type": "Petrol"
+        },
+        {
+            "name": "Venue",
+            "model": "SKFDH3467",
+            "price": 1700000,
+            "usage_info": "Used for 5 years",
+            "brand": "Hyundai",
+            "fuel_type": "Petrol"
+        },
+        {
+            "name": "Hector",
+            "model": "SJHFD3746",
+            "price": 2000000,
+            "usage_info": "Used for 2 years",
+            "brand": "MG",
+            "fuel_type": "Diesel"
+        },
+        {
+            "name": "Kushaq",
+            "model": "AJE247",
+            "price": 1800000,
+            "usage_info": "Used for 4 years",
+            "brand": "Skoda",
+            "fuel_type": "Petrol"
+        }
+    ]
+}

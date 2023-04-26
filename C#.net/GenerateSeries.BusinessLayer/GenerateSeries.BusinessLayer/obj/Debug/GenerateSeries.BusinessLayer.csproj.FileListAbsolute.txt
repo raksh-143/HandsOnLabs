@@ -1,0 +1,6 @@
+C:\Users\Adnim\source\repos\GenerateSeries.BusinessLayer\GenerateSeries.BusinessLayer\bin\Debug\GenerateSeries.BusinessLayer.dll
+C:\Users\Adnim\source\repos\GenerateSeries.BusinessLayer\GenerateSeries.BusinessLayer\bin\Debug\GenerateSeries.BusinessLayer.pdb
+C:\Users\Adnim\source\repos\GenerateSeries.BusinessLayer\GenerateSeries.BusinessLayer\obj\Debug\GenerateSeries.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\GenerateSeries.BusinessLayer\GenerateSeries.BusinessLayer\obj\Debug\GenerateSeries.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\GenerateSeries.BusinessLayer\GenerateSeries.BusinessLayer\obj\Debug\GenerateSeries.BusinessLayer.dll
+C:\Users\Adnim\source\repos\GenerateSeries.BusinessLayer\GenerateSeries.BusinessLayer\obj\Debug\GenerateSeries.BusinessLayer.pdb

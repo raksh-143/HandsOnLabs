@@ -1,0 +1,8 @@
+C:\Users\Adnim\source\repos\LINQLabs\LINQToObjects\bin\Debug\LINQToObjects.exe.config
+C:\Users\Adnim\source\repos\LINQLabs\LINQToObjects\bin\Debug\LINQToObjects.exe
+C:\Users\Adnim\source\repos\LINQLabs\LINQToObjects\bin\Debug\LINQToObjects.pdb
+C:\Users\Adnim\source\repos\LINQLabs\LINQToObjects\obj\Debug\LINQToObjects.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\LINQLabs\LINQToObjects\obj\Debug\LINQToObjects.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adnim\source\repos\LINQLabs\LINQToObjects\obj\Debug\LINQToObjects.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\LINQLabs\LINQToObjects\obj\Debug\LINQToObjects.exe
+C:\Users\Adnim\source\repos\LINQLabs\LINQToObjects\obj\Debug\LINQToObjects.pdb

@@ -1,0 +1,13 @@
+C:\Users\Adnim\source\repos\MyEFDemo\EFDemo.UILayer\bin\Debug\EFDemo.UILayer.exe.config
+C:\Users\Adnim\source\repos\MyEFDemo\EFDemo.UILayer\bin\Debug\EFDemo.UILayer.exe
+C:\Users\Adnim\source\repos\MyEFDemo\EFDemo.UILayer\bin\Debug\EFDemo.UILayer.pdb
+C:\Users\Adnim\source\repos\MyEFDemo\EFDemo.UILayer\bin\Debug\EntityFramework.dll
+C:\Users\Adnim\source\repos\MyEFDemo\EFDemo.UILayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Adnim\source\repos\MyEFDemo\EFDemo.UILayer\bin\Debug\EntityFramework.xml
+C:\Users\Adnim\source\repos\MyEFDemo\EFDemo.UILayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Adnim\source\repos\MyEFDemo\EFDemo.UILayer\obj\Debug\EFDemo.UILayer.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\MyEFDemo\EFDemo.UILayer\obj\Debug\EFDemo.UILayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adnim\source\repos\MyEFDemo\EFDemo.UILayer\obj\Debug\EFDemo.UILayer.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\MyEFDemo\EFDemo.UILayer\obj\Debug\EFDemo.UILayer.csproj.CopyComplete
+C:\Users\Adnim\source\repos\MyEFDemo\EFDemo.UILayer\obj\Debug\EFDemo.UILayer.exe
+C:\Users\Adnim\source\repos\MyEFDemo\EFDemo.UILayer\obj\Debug\EFDemo.UILayer.pdb

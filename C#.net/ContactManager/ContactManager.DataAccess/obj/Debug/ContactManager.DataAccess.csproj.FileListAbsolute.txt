@@ -1,0 +1,12 @@
+C:\Users\Adnim\source\repos\ContactManager\ContactManager.DataAccess\obj\Debug\ContactManager.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\ContactManager\ContactManager.DataAccess\obj\Debug\ContactManager.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\ContactManager\ContactManager.DataAccess\bin\Debug\ContactManager.DataAccess.dll
+C:\Users\Adnim\source\repos\ContactManager\ContactManager.DataAccess\bin\Debug\ContactManager.DataAccess.pdb
+C:\Users\Adnim\source\repos\ContactManager\ContactManager.DataAccess\obj\Debug\ContactManager.DataAccess.dll
+C:\Users\Adnim\source\repos\ContactManager\ContactManager.DataAccess\obj\Debug\ContactManager.DataAccess.pdb
+C:\Users\Adnim\source\repos\ContactManager\ContactManager.DataAccess\bin\Debug\ContactManager.DataAccess.dll.config
+C:\Users\Adnim\source\repos\ContactManager\ContactManager.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Adnim\source\repos\ContactManager\ContactManager.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Adnim\source\repos\ContactManager\ContactManager.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Adnim\source\repos\ContactManager\ContactManager.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Adnim\source\repos\ContactManager\ContactManager.DataAccess\obj\Debug\ContactManager.DataAccess.csproj.CopyComplete

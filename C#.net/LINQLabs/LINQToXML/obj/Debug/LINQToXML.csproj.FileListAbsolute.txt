@@ -1,0 +1,9 @@
+C:\Users\Adnim\source\repos\LINQLabs\LINQToXML\bin\Debug\LINQToXML.exe.config
+C:\Users\Adnim\source\repos\LINQLabs\LINQToXML\bin\Debug\LINQToXML.exe
+C:\Users\Adnim\source\repos\LINQLabs\LINQToXML\bin\Debug\LINQToXML.pdb
+C:\Users\Adnim\source\repos\LINQLabs\LINQToXML\obj\Debug\LINQToXML.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\LINQLabs\LINQToXML\obj\Debug\LINQToXML.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adnim\source\repos\LINQLabs\LINQToXML\obj\Debug\LINQToXML.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\LINQLabs\LINQToXML\obj\Debug\LINQToXML.exe
+C:\Users\Adnim\source\repos\LINQLabs\LINQToXML\obj\Debug\LINQToXML.pdb
+C:\Users\Adnim\source\repos\LINQLabs\LINQToXML\bin\Debug\EmpInfo.xml

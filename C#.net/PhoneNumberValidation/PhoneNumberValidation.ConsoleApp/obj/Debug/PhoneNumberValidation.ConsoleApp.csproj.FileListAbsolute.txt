@@ -1,0 +1,11 @@
+C:\Users\Adnim\source\repos\PhoneNumberValidation\PhoneNumberValidation.ConsoleApp\bin\Debug\PhoneNumberValidation.ConsoleApp.exe.config
+C:\Users\Adnim\source\repos\PhoneNumberValidation\PhoneNumberValidation.ConsoleApp\bin\Debug\PhoneNumberValidation.ConsoleApp.exe
+C:\Users\Adnim\source\repos\PhoneNumberValidation\PhoneNumberValidation.ConsoleApp\bin\Debug\PhoneNumberValidation.ConsoleApp.pdb
+C:\Users\Adnim\source\repos\PhoneNumberValidation\PhoneNumberValidation.ConsoleApp\bin\Debug\PhoneNumberValidationLogic.dll
+C:\Users\Adnim\source\repos\PhoneNumberValidation\PhoneNumberValidation.ConsoleApp\bin\Debug\PhoneNumberValidationLogic.pdb
+C:\Users\Adnim\source\repos\PhoneNumberValidation\PhoneNumberValidation.ConsoleApp\obj\Debug\PhoneNumberValidation.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\PhoneNumberValidation\PhoneNumberValidation.ConsoleApp\obj\Debug\PhoneNumberValidation.ConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adnim\source\repos\PhoneNumberValidation\PhoneNumberValidation.ConsoleApp\obj\Debug\PhoneNumberValidation.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\PhoneNumberValidation\PhoneNumberValidation.ConsoleApp\obj\Debug\PhoneNumberValidation.ConsoleApp.csproj.CopyComplete
+C:\Users\Adnim\source\repos\PhoneNumberValidation\PhoneNumberValidation.ConsoleApp\obj\Debug\PhoneNumberValidation.ConsoleApp.exe
+C:\Users\Adnim\source\repos\PhoneNumberValidation\PhoneNumberValidation.ConsoleApp\obj\Debug\PhoneNumberValidation.ConsoleApp.pdb

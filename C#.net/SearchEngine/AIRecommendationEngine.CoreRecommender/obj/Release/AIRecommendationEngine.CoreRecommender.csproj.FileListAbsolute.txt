@@ -1,0 +1,6 @@
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendationEngine.CoreRecommender\bin\Release\AIRecommendationEngine.CoreRecommender.dll
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendationEngine.CoreRecommender\bin\Release\AIRecommendationEngine.CoreRecommender.pdb
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendationEngine.CoreRecommender\obj\Release\AIRecommendationEngine.CoreRecommender.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendationEngine.CoreRecommender\obj\Release\AIRecommendationEngine.CoreRecommender.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendationEngine.CoreRecommender\obj\Release\AIRecommendationEngine.CoreRecommender.dll
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendationEngine.CoreRecommender\obj\Release\AIRecommendationEngine.CoreRecommender.pdb

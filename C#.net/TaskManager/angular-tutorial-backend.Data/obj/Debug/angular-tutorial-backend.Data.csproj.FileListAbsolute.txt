@@ -1,0 +1,14 @@
+C:\Users\Adnim\source\repos\TaskManager\angular-tutorial-backend.Data\bin\Debug\angular-tutorial-backend.Data.dll.config
+C:\Users\Adnim\source\repos\TaskManager\angular-tutorial-backend.Data\bin\Debug\angular-tutorial-backend.Data.dll
+C:\Users\Adnim\source\repos\TaskManager\angular-tutorial-backend.Data\bin\Debug\angular-tutorial-backend.Data.pdb
+C:\Users\Adnim\source\repos\TaskManager\angular-tutorial-backend.Data\bin\Debug\angular-app-tutorial.Domain.dll
+C:\Users\Adnim\source\repos\TaskManager\angular-tutorial-backend.Data\bin\Debug\EntityFramework.dll
+C:\Users\Adnim\source\repos\TaskManager\angular-tutorial-backend.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Adnim\source\repos\TaskManager\angular-tutorial-backend.Data\bin\Debug\angular-app-tutorial.Domain.pdb
+C:\Users\Adnim\source\repos\TaskManager\angular-tutorial-backend.Data\bin\Debug\EntityFramework.xml
+C:\Users\Adnim\source\repos\TaskManager\angular-tutorial-backend.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Adnim\source\repos\TaskManager\angular-tutorial-backend.Data\obj\Debug\angular-tutorial-backend.Data.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\TaskManager\angular-tutorial-backend.Data\obj\Debug\angular-tutorial-backend.Data.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\TaskManager\angular-tutorial-backend.Data\obj\Debug\angular-tutorial-backend.Data.csproj.CopyComplete
+C:\Users\Adnim\source\repos\TaskManager\angular-tutorial-backend.Data\obj\Debug\angular-tutorial-backend.Data.dll
+C:\Users\Adnim\source\repos\TaskManager\angular-tutorial-backend.Data\obj\Debug\angular-tutorial-backend.Data.pdb

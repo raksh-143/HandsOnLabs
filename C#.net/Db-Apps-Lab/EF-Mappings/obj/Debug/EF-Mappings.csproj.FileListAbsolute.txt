@@ -1,0 +1,13 @@
+C:\Users\Adnim\source\repos\Db-Apps-Lab\EF-Mappings\bin\Debug\EF-Mappings.exe.config
+C:\Users\Adnim\source\repos\Db-Apps-Lab\EF-Mappings\bin\Debug\EF-Mappings.exe
+C:\Users\Adnim\source\repos\Db-Apps-Lab\EF-Mappings\bin\Debug\EF-Mappings.pdb
+C:\Users\Adnim\source\repos\Db-Apps-Lab\EF-Mappings\bin\Debug\EntityFramework.dll
+C:\Users\Adnim\source\repos\Db-Apps-Lab\EF-Mappings\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Adnim\source\repos\Db-Apps-Lab\EF-Mappings\bin\Debug\EntityFramework.xml
+C:\Users\Adnim\source\repos\Db-Apps-Lab\EF-Mappings\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Adnim\source\repos\Db-Apps-Lab\EF-Mappings\obj\Debug\EF-Mappings.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\Db-Apps-Lab\EF-Mappings\obj\Debug\EF-Mappings.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adnim\source\repos\Db-Apps-Lab\EF-Mappings\obj\Debug\EF-Mappings.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\Db-Apps-Lab\EF-Mappings\obj\Debug\EF-Mappings.csproj.CopyComplete
+C:\Users\Adnim\source\repos\Db-Apps-Lab\EF-Mappings\obj\Debug\EF-Mappings.exe
+C:\Users\Adnim\source\repos\Db-Apps-Lab\EF-Mappings\obj\Debug\EF-Mappings.pdb

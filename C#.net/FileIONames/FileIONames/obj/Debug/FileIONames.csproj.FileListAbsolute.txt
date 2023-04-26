@@ -1,0 +1,8 @@
+C:\Users\Adnim\source\repos\FileIONames\FileIONames\bin\Debug\FileIONames.exe.config
+C:\Users\Adnim\source\repos\FileIONames\FileIONames\bin\Debug\FileIONames.exe
+C:\Users\Adnim\source\repos\FileIONames\FileIONames\bin\Debug\FileIONames.pdb
+C:\Users\Adnim\source\repos\FileIONames\FileIONames\obj\Debug\FileIONames.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\FileIONames\FileIONames\obj\Debug\FileIONames.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adnim\source\repos\FileIONames\FileIONames\obj\Debug\FileIONames.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\FileIONames\FileIONames\obj\Debug\FileIONames.exe
+C:\Users\Adnim\source\repos\FileIONames\FileIONames\obj\Debug\FileIONames.pdb

@@ -1,0 +1,6 @@
+C:\Users\Adnim\source\repos\MyFootBallGame\FootBallGame.BusinessLayer\bin\Debug\FootBallGame.BusinessLayer.dll
+C:\Users\Adnim\source\repos\MyFootBallGame\FootBallGame.BusinessLayer\bin\Debug\FootBallGame.BusinessLayer.pdb
+C:\Users\Adnim\source\repos\MyFootBallGame\FootBallGame.BusinessLayer\obj\Debug\FootBallGame.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\MyFootBallGame\FootBallGame.BusinessLayer\obj\Debug\FootBallGame.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\MyFootBallGame\FootBallGame.BusinessLayer\obj\Debug\FootBallGame.BusinessLayer.dll
+C:\Users\Adnim\source\repos\MyFootBallGame\FootBallGame.BusinessLayer\obj\Debug\FootBallGame.BusinessLayer.pdb

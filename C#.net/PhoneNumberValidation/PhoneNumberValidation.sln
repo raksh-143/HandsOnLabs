@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation Layer", "Presentation Layer", "{65114CF7-0875-4B6F-BAA0-AD0108E00454}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Business Layer", "Business Layer", "{B829ABA3-B623-4590-A135-0452176762C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneNumberValidation.BusinessLogic", "PhoneNumberValidationLogic\PhoneNumberValidation.BusinessLogic.csproj", "{1F33BD10-E713-4C9F-8A90-96FC6046B0D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneNumberValidation.ConsoleApp", "PhoneNumberValidation.ConsoleApp\PhoneNumberValidation.ConsoleApp.csproj", "{E00A02A9-20A4-4D6B-9B4F-DDF48EDA5D4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F33BD10-E713-4C9F-8A90-96FC6046B0D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F33BD10-E713-4C9F-8A90-96FC6046B0D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F33BD10-E713-4C9F-8A90-96FC6046B0D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F33BD10-E713-4C9F-8A90-96FC6046B0D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E00A02A9-20A4-4D6B-9B4F-DDF48EDA5D4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E00A02A9-20A4-4D6B-9B4F-DDF48EDA5D4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E00A02A9-20A4-4D6B-9B4F-DDF48EDA5D4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E00A02A9-20A4-4D6B-9B4F-DDF48EDA5D4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1F33BD10-E713-4C9F-8A90-96FC6046B0D7} = {B829ABA3-B623-4590-A135-0452176762C8}
+		{E00A02A9-20A4-4D6B-9B4F-DDF48EDA5D4F} = {65114CF7-0875-4B6F-BAA0-AD0108E00454}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAC974F7-CC2B-417F-ADA1-A29A1660B14A}
+	EndGlobalSection
+EndGlobal

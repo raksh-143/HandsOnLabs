@@ -1,0 +1,14 @@
+C:\Users\Adnim\source\repos\SellPhonesStore\SellPhonesStore.DataAccess\bin\Debug\SellPhonesStore.DataAccess.dll.config
+C:\Users\Adnim\source\repos\SellPhonesStore\SellPhonesStore.DataAccess\bin\Debug\SellPhonesStore.DataAccess.dll
+C:\Users\Adnim\source\repos\SellPhonesStore\SellPhonesStore.DataAccess\bin\Debug\SellPhonesStore.DataAccess.pdb
+C:\Users\Adnim\source\repos\SellPhonesStore\SellPhonesStore.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Adnim\source\repos\SellPhonesStore\SellPhonesStore.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Adnim\source\repos\SellPhonesStore\SellPhonesStore.DataAccess\bin\Debug\SellPhonesStore.Entities.dll
+C:\Users\Adnim\source\repos\SellPhonesStore\SellPhonesStore.DataAccess\bin\Debug\SellPhonesStore.Entities.pdb
+C:\Users\Adnim\source\repos\SellPhonesStore\SellPhonesStore.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Adnim\source\repos\SellPhonesStore\SellPhonesStore.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Adnim\source\repos\SellPhonesStore\SellPhonesStore.DataAccess\obj\Debug\SellPhonesStore.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\SellPhonesStore\SellPhonesStore.DataAccess\obj\Debug\SellPhonesStore.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\SellPhonesStore\SellPhonesStore.DataAccess\obj\Debug\SellPhonesStore.DataAccess.csproj.CopyComplete
+C:\Users\Adnim\source\repos\SellPhonesStore\SellPhonesStore.DataAccess\obj\Debug\SellPhonesStore.DataAccess.dll
+C:\Users\Adnim\source\repos\SellPhonesStore\SellPhonesStore.DataAccess\obj\Debug\SellPhonesStore.DataAccess.pdb

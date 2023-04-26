@@ -1,0 +1,9 @@
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendationEngine.DataLoader\bin\Release\AIRecommendationEngine.DataLoader.dll
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendationEngine.DataLoader\bin\Release\AIRecommendationEngine.DataLoader.pdb
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendationEngine.DataLoader\bin\Release\AIRecommendationEngine.Common.dll
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendationEngine.DataLoader\bin\Release\AIRecommendationEngine.Common.pdb
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendationEngine.DataLoader\obj\Release\AIRecommendationEngine.DataLoader.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendationEngine.DataLoader\obj\Release\AIRecommendationEngine.DataLoader.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendationEngine.DataLoader\obj\Release\AIRecommendationEngine.DataLoader.csproj.CopyComplete
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendationEngine.DataLoader\obj\Release\AIRecommendationEngine.DataLoader.dll
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendationEngine.DataLoader\obj\Release\AIRecommendationEngine.DataLoader.pdb

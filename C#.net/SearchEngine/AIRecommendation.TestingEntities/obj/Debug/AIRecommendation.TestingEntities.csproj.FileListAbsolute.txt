@@ -1,0 +1,13 @@
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendation.TestingEntities\bin\Debug\AIRecommendation.TestingEntities.exe.config
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendation.TestingEntities\bin\Debug\AIRecommendation.TestingEntities.exe
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendation.TestingEntities\bin\Debug\AIRecommendation.TestingEntities.pdb
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendation.TestingEntities\bin\Debug\AIRecommendationEngine.Common.dll
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendation.TestingEntities\bin\Debug\AIRecommendationEngine.DataLoader.dll
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendation.TestingEntities\bin\Debug\AIRecommendationEngine.Common.pdb
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendation.TestingEntities\bin\Debug\AIRecommendationEngine.DataLoader.pdb
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendation.TestingEntities\obj\Debug\AIRecommendation.TestingEntities.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendation.TestingEntities\obj\Debug\AIRecommendation.TestingEntities.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendation.TestingEntities\obj\Debug\AIRecommendation.TestingEntities.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendation.TestingEntities\obj\Debug\AIRecommendation.TestingEntities.csproj.CopyComplete
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendation.TestingEntities\obj\Debug\AIRecommendation.TestingEntities.exe
+C:\Users\Adnim\source\repos\SearchEngine\AIRecommendation.TestingEntities\obj\Debug\AIRecommendation.TestingEntities.pdb

@@ -1,0 +1,6 @@
+C:\Users\Adnim\source\repos\TaskManager\angular-app-tutorial.Domain\bin\Debug\angular-app-tutorial.Domain.dll
+C:\Users\Adnim\source\repos\TaskManager\angular-app-tutorial.Domain\bin\Debug\angular-app-tutorial.Domain.pdb
+C:\Users\Adnim\source\repos\TaskManager\angular-app-tutorial.Domain\obj\Debug\angular-tutorial-tutorial.Domain.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\TaskManager\angular-app-tutorial.Domain\obj\Debug\angular-tutorial-tutorial.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\TaskManager\angular-app-tutorial.Domain\obj\Debug\angular-app-tutorial.Domain.dll
+C:\Users\Adnim\source\repos\TaskManager\angular-app-tutorial.Domain\obj\Debug\angular-app-tutorial.Domain.pdb

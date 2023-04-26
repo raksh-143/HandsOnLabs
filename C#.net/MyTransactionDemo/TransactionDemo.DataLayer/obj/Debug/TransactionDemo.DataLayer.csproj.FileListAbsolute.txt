@@ -1,0 +1,6 @@
+C:\Users\Adnim\source\repos\MyTransactionDemo\TransactionDemo.DataLayer\bin\Debug\TransactionDemo.DataLayer.dll
+C:\Users\Adnim\source\repos\MyTransactionDemo\TransactionDemo.DataLayer\bin\Debug\TransactionDemo.DataLayer.pdb
+C:\Users\Adnim\source\repos\MyTransactionDemo\TransactionDemo.DataLayer\obj\Debug\TransactionDemo.DataLayer.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\MyTransactionDemo\TransactionDemo.DataLayer\obj\Debug\TransactionDemo.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\MyTransactionDemo\TransactionDemo.DataLayer\obj\Debug\TransactionDemo.DataLayer.dll
+C:\Users\Adnim\source\repos\MyTransactionDemo\TransactionDemo.DataLayer\obj\Debug\TransactionDemo.DataLayer.pdb

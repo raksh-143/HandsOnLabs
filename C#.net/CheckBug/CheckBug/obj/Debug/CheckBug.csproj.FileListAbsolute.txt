@@ -1,0 +1,8 @@
+C:\Users\Adnim\source\repos\CheckBug\CheckBug\bin\Debug\CheckBug.exe.config
+C:\Users\Adnim\source\repos\CheckBug\CheckBug\bin\Debug\CheckBug.exe
+C:\Users\Adnim\source\repos\CheckBug\CheckBug\bin\Debug\CheckBug.pdb
+C:\Users\Adnim\source\repos\CheckBug\CheckBug\obj\Debug\CheckBug.csproj.AssemblyReference.cache
+C:\Users\Adnim\source\repos\CheckBug\CheckBug\obj\Debug\CheckBug.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adnim\source\repos\CheckBug\CheckBug\obj\Debug\CheckBug.csproj.CoreCompileInputs.cache
+C:\Users\Adnim\source\repos\CheckBug\CheckBug\obj\Debug\CheckBug.exe
+C:\Users\Adnim\source\repos\CheckBug\CheckBug\obj\Debug\CheckBug.pdb
