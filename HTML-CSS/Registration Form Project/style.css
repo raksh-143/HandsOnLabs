@@ -1,0 +1,35 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    background-color: rgb(192, 215, 235);
+}
+h1{
+    text-align: center;
+    color: black;
+    text-decoration: underline;
+}
+table{
+    border: 3px solid black;
+    padding: 50px;
+}
+td{
+    padding: 20px;
+    font-size: larger;
+    font-weight: bold;
+    text-decoration: underline;
+}
+input{
+    font-size: larger;
+    border: 2px solid black;
+}
+input[type="submit"]{
+    background-color: rgb(192, 215, 235);
+    border: 2px solid black;
+    font-size: 20px;
+    padding: 10px 15px 10px 15px;
+    cursor: pointer;
+    font-weight: bold;
+}
+img{
+    border: 2px solid black;
+}

@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Restaurant</title>
+    <!--Bootstrap CDN-->
+    <link rel="stylesheet" href="style.css" type="text/css"/>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" 
+    integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+</head>
+<body>
+    <!--Navigation Bar-->
+    <nav class="nav navbar navbar-expand-lg bg-dark">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="#"><img src="Logo.png" alt="Restaurant Logo" width="80px" height="80px"></a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+            <li class="nav-item">
+              <a class="nav-button btn btn-outline-success p-3" aria-current="page" href="#">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-button btn btn-outline-success p-3" href="#">Dine</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-button btn btn-outline-success p-3" href="#">About Us</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-button btn btn-outline-success p-3">Contact</a>
+            </li>
+          </ul>
+          <form class="d-flex" role="search">
+            <input size="80" class="form-control me-2 shadow-none" type="search" placeholder="Search" aria-label="Search">
+            <button class="btn btn-outline-primary" type="submit">Search</button>
+          </form>
+        </div>
+      </div>
+    </nav>
+    <!--Jumbotron-->
+    <div id="myJumbotron" class="jumbotron container-fluid text-center bg-dark-subtle p-5 text-white">
+      <h1 id="firstHeadingJumbotron" class="display-4">WELCOME!</h1>
+      <p class="lead">We promise to serve our customers the best food on the planet.<br> You will never forget us once you dine with us!</p>
+      <hr class="my-4">
+      <p>We use the best quality products in our food to satisfy the cravings of our customers!</p>
+      <p class="lead">
+        <a class="btn btn-primary btn-lg" href="#" role="button">Dine with us!</a>
+      </p>
+    </div>
+    <br><hr><br>
+    <!--Grid Layout-->
+    <div class="grid text-center container-fluid">
+      <div class="row">
+          <div class="col g-col-6 g-col-md-4">
+            <div class="card">
+              <img src="Burger.jpg" class="card-img-top" alt="Burger Image" width="180px" height="200px">
+              <div class="card-body">
+                <h5 class="card-title">Burger</h5>
+                <p class="card-text">We have an amazing range of exotic burgers that will suit every mood of our customers!</p>
+                <a href="#" class="btn btn-primary">Order Now!</a>
+              </div>
+            </div>
+          </div>
+          <div class="col g-col-6 g-col-md-4">
+            <div class="card">
+              <img src="Pizza.jpg" class="card-img-top" alt="Pizza Image" width="180px" height="200px">
+              <div class="card-body">
+                <h5 class="card-title">Pizza</h5>
+                <p class="card-text">We have an amazing range of exotic pizzas that will suit every mood of our customers!</p>
+                <a href="#" class="btn btn-primary">Order Now!</a>
+              </div>
+            </div>
+          </div>
+          <div class="col g-col-6 g-col-md-4">
+            <div class="card">
+              <img src="FriedChicken.jpg" class="card-img-top" alt=".Fried Chicken Image" width="180px" height="200px">
+              <div class="card-body">
+                <h5 class="card-title">Fried Chicken</h5>
+                <p class="card-text">We have an amazing range of exotic fried chicken that will suit every mood of our customers!</p>
+                <a href="#" class="btn btn-primary">Order Now!</a>
+              </div>
+          </div>
+      </div>
+    </div>
+      <!--Footer-->
+      <div class="container-fluid bg-dark text-white">
+        <footer class="row row-cols-5 py-5 my-5 border-top">
+          <div class="col">
+            <a href="/" class="d-flex align-items-center mb-3 link-dark text-decoration-none">
+              <svg class="bi me-2" width="40" height="32"><use xlink:href="#bootstrap"></use></svg>
+            </a>
+            <p class="text-white">© 2023</p>
+          </div>
+      
+          <div class="col">
+      
+          </div>
+      
+          <div class="col">
+            <h5>Home</h5>
+            <ul class="nav flex-column">
+              <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">Home</a></li>
+              <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">Features</a></li>
+              <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">Pricing</a></li>
+              <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">Our Dishes</a></li>
+              <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">FAQs</a></li>
+            </ul>
+          </div>
+      
+          <div class="col">
+            <h5>About Us</h5>
+            <ul class="nav flex-column">
+              <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">Origin</a></li>
+              <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">Vision</a></li>
+              <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">Mission</a></li>
+              <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">Join Us</a></li>
+              <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">About</a></li>
+            </ul>
+          </div>
+      
+          <div class="col">
+            <h5>Contact</h5>
+            <ul class="nav flex-column">
+              <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">Facebook</a></li>
+              <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">Instagram</a></li>
+              <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">Twitter</a></li>
+            </ul>
+          </div>
+        </footer>
+      </div>
+  </div>
+</body>
+</html>

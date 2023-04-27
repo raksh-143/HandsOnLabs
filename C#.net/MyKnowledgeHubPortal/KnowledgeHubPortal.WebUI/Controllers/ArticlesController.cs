@@ -47,10 +47,10 @@ namespace KnowledgeHubPortal.WebUI.Controllers
             if(searchTerm != null)
             {
                 var filteredArticlesForBrowse = from a in articlesForBrowse
-                                                where a.Title.Contains(searchTerm.ToLower()) ||
-                                                a.Description.Contains(searchTerm.ToLower()) ||
-                                                a.url.Contains(searchTerm.ToLower())||
-                                                a.CategoryName.Contains(searchTerm.ToLower())
+                                                where a.Title.ToLower().Contains(searchTerm.ToLower()) ||
+                                                a.Description.ToLower().Contains(searchTerm.ToLower()) ||
+                                                a.url.ToLower().Contains(searchTerm.ToLower())||
+                                                a.CategoryName.ToLower().Contains(searchTerm.ToLower())
                                                 select a;
                 return View(filteredArticlesForBrowse);
             }
